@@ -9,18 +9,18 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="docfx.console" Version="2.35.4" />
-    <PackageReference Include="Microsoft.CodeAnalysis.Scripting" Version="2.8.0" />
-    <PackageReference Include="Microsoft.CodeAnalysis.Scripting.Common" Version="2.8.0" />
-    <PackageReference Include="Microsoft.Net.Compilers" Version="2.8.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.0" />
+    <PackageReference Include="docfx.console" Version="2.36.2" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Scripting" Version="2.8.2" />
+    <PackageReference Include="Microsoft.CodeAnalysis.Scripting.Common" Version="2.8.2" />
+    <PackageReference Include="Microsoft.Net.Compilers" Version="2.8.2" />
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="15.7.2" />
     <PackageReference Include="NUnit" Version="3.10.1" />
     <PackageReference Include="NUnit3TestAdapter" Version="3.10.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\CSharpScript\CSharpScript.csproj" />
-    <ProjectReference Include="..\GrossUpContract\GoalSeekContract.csproj" />
+    <ProjectReference Include="..\GoalSeekContract\GoalSeekImplementation.csproj" />
     <ProjectReference Include="..\TaxCalulation\TreeImplementation.csproj" />
   </ItemGroup>
 

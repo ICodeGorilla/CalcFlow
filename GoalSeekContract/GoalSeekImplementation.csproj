@@ -5,20 +5,21 @@
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>bin\Debug\netstandard2.0\GrossUpImplementation.xml</DocumentationFile>
-    <CodeAnalysisRuleSet>GoalSeekImplementation.ruleset</CodeAnalysisRuleSet>
+    <DocumentationFile>bin\Debug\netstandard2.0\GrossUpContract.xml</DocumentationFile>
+    <CodeAnalysisRuleSet>GoalSeekContract.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
-    <CodeAnalysisRuleSet>GoalSeekImplementation.ruleset</CodeAnalysisRuleSet>
+    <CodeAnalysisRuleSet>GoalSeekContract.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SonarAnalyzer.CSharp" Version="6.7.1.4347" />
+    <PackageReference Include="Accord.Math" Version="3.8.0" />
   </ItemGroup>
 
   <ItemGroup>
     <ProjectReference Include="..\Contract\TreeContract.csproj" />
+    <ProjectReference Include="..\GoalSeek\GoalSeekContract.csproj" />
   </ItemGroup>
 
 </Project>

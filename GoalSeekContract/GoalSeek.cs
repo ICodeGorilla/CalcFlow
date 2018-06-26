@@ -7,13 +7,13 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace GoalSeekContract
+namespace GoalSeekImplementation
 {
     using System;
 
     using Accord.Math.Optimization;
 
-    using GoalSeekImplementation;
+    using GoalSeekContract;
 
     using TreeContract;
 

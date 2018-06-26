@@ -7,7 +7,7 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
-namespace GoalSeekImplementation
+namespace GoalSeekContract
 {
     /// <summary>
     /// Gross up application to determine the values required to reach a target

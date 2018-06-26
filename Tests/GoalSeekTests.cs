@@ -13,7 +13,7 @@ namespace Tests
 
     using CSharpScript;
 
-    using GoalSeekContract;
+    using GoalSeekImplementation;
 
     using NUnit.Framework;
 
