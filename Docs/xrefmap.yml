@@ -1,0 +1,1982 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: CompilerContract
+  name: CompilerContract
+  href: api/CompilerContract.html
+  commentId: N:CompilerContract
+  fullName: CompilerContract
+  nameWithType: CompilerContract
+- uid: CompilerContract.ICompiler
+  name: ICompiler
+  href: api/CompilerContract.ICompiler.html
+  commentId: T:CompilerContract.ICompiler
+  fullName: CompilerContract.ICompiler
+  nameWithType: ICompiler
+- uid: CompilerContract.ICompiler.Compile(System.String,System.String[])
+  name: Compile(String, String[])
+  href: api/CompilerContract.ICompiler.html#CompilerContract_ICompiler_Compile_System_String_System_String___
+  commentId: M:CompilerContract.ICompiler.Compile(System.String,System.String[])
+  name.vb: Compile(String, String())
+  fullName: CompilerContract.ICompiler.Compile(System.String, System.String[])
+  fullName.vb: CompilerContract.ICompiler.Compile(System.String, System.String())
+  nameWithType: ICompiler.Compile(String, String[])
+  nameWithType.vb: ICompiler.Compile(String, String())
+- uid: CompilerContract.ICompiler.Compile*
+  name: Compile
+  href: api/CompilerContract.ICompiler.html#CompilerContract_ICompiler_Compile_
+  commentId: Overload:CompilerContract.ICompiler.Compile
+  isSpec: "True"
+  fullName: CompilerContract.ICompiler.Compile
+  nameWithType: ICompiler.Compile
+- uid: CompilerContract.ICompilerInstructions
+  name: ICompilerInstructions
+  href: api/CompilerContract.ICompilerInstructions.html
+  commentId: T:CompilerContract.ICompilerInstructions
+  fullName: CompilerContract.ICompilerInstructions
+  nameWithType: ICompilerInstructions
+- uid: CompilerContract.ICompilerInstructions.AssemblyLocations
+  name: AssemblyLocations
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_AssemblyLocations
+  commentId: P:CompilerContract.ICompilerInstructions.AssemblyLocations
+  fullName: CompilerContract.ICompilerInstructions.AssemblyLocations
+  nameWithType: ICompilerInstructions.AssemblyLocations
+- uid: CompilerContract.ICompilerInstructions.AssemblyLocations*
+  name: AssemblyLocations
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_AssemblyLocations_
+  commentId: Overload:CompilerContract.ICompilerInstructions.AssemblyLocations
+  isSpec: "True"
+  fullName: CompilerContract.ICompilerInstructions.AssemblyLocations
+  nameWithType: ICompilerInstructions.AssemblyLocations
+- uid: CompilerContract.ICompilerInstructions.ClassName
+  name: ClassName
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_ClassName
+  commentId: P:CompilerContract.ICompilerInstructions.ClassName
+  fullName: CompilerContract.ICompilerInstructions.ClassName
+  nameWithType: ICompilerInstructions.ClassName
+- uid: CompilerContract.ICompilerInstructions.ClassName*
+  name: ClassName
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_ClassName_
+  commentId: Overload:CompilerContract.ICompilerInstructions.ClassName
+  isSpec: "True"
+  fullName: CompilerContract.ICompilerInstructions.ClassName
+  nameWithType: ICompilerInstructions.ClassName
+- uid: CompilerContract.ICompilerInstructions.ClassType
+  name: ClassType
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_ClassType
+  commentId: P:CompilerContract.ICompilerInstructions.ClassType
+  fullName: CompilerContract.ICompilerInstructions.ClassType
+  nameWithType: ICompilerInstructions.ClassType
+- uid: CompilerContract.ICompilerInstructions.ClassType*
+  name: ClassType
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_ClassType_
+  commentId: Overload:CompilerContract.ICompilerInstructions.ClassType
+  isSpec: "True"
+  fullName: CompilerContract.ICompilerInstructions.ClassType
+  nameWithType: ICompilerInstructions.ClassType
+- uid: CompilerContract.ICompilerInstructions.Code
+  name: Code
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_Code
+  commentId: P:CompilerContract.ICompilerInstructions.Code
+  fullName: CompilerContract.ICompilerInstructions.Code
+  nameWithType: ICompilerInstructions.Code
+- uid: CompilerContract.ICompilerInstructions.Code*
+  name: Code
+  href: api/CompilerContract.ICompilerInstructions.html#CompilerContract_ICompilerInstructions_Code_
+  commentId: Overload:CompilerContract.ICompilerInstructions.Code
+  isSpec: "True"
+  fullName: CompilerContract.ICompilerInstructions.Code
+  nameWithType: ICompilerInstructions.Code
+- uid: CompilerContract.IProducer
+  name: IProducer
+  href: api/CompilerContract.IProducer.html
+  commentId: T:CompilerContract.IProducer
+  fullName: CompilerContract.IProducer
+  nameWithType: IProducer
+- uid: CompilerContract.IProducer.Run
+  name: Run()
+  href: api/CompilerContract.IProducer.html#CompilerContract_IProducer_Run
+  commentId: M:CompilerContract.IProducer.Run
+  fullName: CompilerContract.IProducer.Run()
+  nameWithType: IProducer.Run()
+- uid: CompilerContract.IProducer.Run*
+  name: Run
+  href: api/CompilerContract.IProducer.html#CompilerContract_IProducer_Run_
+  commentId: Overload:CompilerContract.IProducer.Run
+  isSpec: "True"
+  fullName: CompilerContract.IProducer.Run
+  nameWithType: IProducer.Run
+- uid: CompilerContract.IScript
+  name: IScript
+  href: api/CompilerContract.IScript.html
+  commentId: T:CompilerContract.IScript
+  fullName: CompilerContract.IScript
+  nameWithType: IScript
+- uid: CompilerContract.IScript.Run
+  name: Run()
+  href: api/CompilerContract.IScript.html#CompilerContract_IScript_Run
+  commentId: M:CompilerContract.IScript.Run
+  fullName: CompilerContract.IScript.Run()
+  nameWithType: IScript.Run()
+- uid: CompilerContract.IScript.Run*
+  name: Run
+  href: api/CompilerContract.IScript.html#CompilerContract_IScript_Run_
+  commentId: Overload:CompilerContract.IScript.Run
+  isSpec: "True"
+  fullName: CompilerContract.IScript.Run
+  nameWithType: IScript.Run
+- uid: CSharpScript
+  name: CSharpScript
+  href: api/CSharpScript.html
+  commentId: N:CSharpScript
+  fullName: CSharpScript
+  nameWithType: CSharpScript
+- uid: CSharpScript.Compiler
+  name: Compiler
+  href: api/CSharpScript.Compiler.html
+  commentId: T:CSharpScript.Compiler
+  fullName: CSharpScript.Compiler
+  nameWithType: Compiler
+- uid: CSharpScript.Compiler.Compile*
+  name: Compile
+  href: api/CSharpScript.Compiler.html#CSharpScript_Compiler_Compile_
+  commentId: Overload:CSharpScript.Compiler.Compile
+  isSpec: "True"
+  fullName: CSharpScript.Compiler.Compile
+  nameWithType: Compiler.Compile
+- uid: CSharpScript.Compiler.Compile``1(System.String)
+  name: Compile<TResult>(String)
+  href: api/CSharpScript.Compiler.html#CSharpScript_Compiler_Compile__1_System_String_
+  commentId: M:CSharpScript.Compiler.Compile``1(System.String)
+  name.vb: Compile(Of TResult)(String)
+  fullName: CSharpScript.Compiler.Compile<TResult>(System.String)
+  fullName.vb: CSharpScript.Compiler.Compile(Of TResult)(System.String)
+  nameWithType: Compiler.Compile<TResult>(String)
+  nameWithType.vb: Compiler.Compile(Of TResult)(String)
+- uid: CSharpScript.Compiler.CompileActionScriptWithContext*
+  name: CompileActionScriptWithContext
+  href: api/CSharpScript.Compiler.html#CSharpScript_Compiler_CompileActionScriptWithContext_
+  commentId: Overload:CSharpScript.Compiler.CompileActionScriptWithContext
+  isSpec: "True"
+  fullName: CSharpScript.Compiler.CompileActionScriptWithContext
+  nameWithType: Compiler.CompileActionScriptWithContext
+- uid: CSharpScript.Compiler.CompileActionScriptWithContext``1(System.String)
+  name: CompileActionScriptWithContext<TContext>(String)
+  href: api/CSharpScript.Compiler.html#CSharpScript_Compiler_CompileActionScriptWithContext__1_System_String_
+  commentId: M:CSharpScript.Compiler.CompileActionScriptWithContext``1(System.String)
+  name.vb: CompileActionScriptWithContext(Of TContext)(String)
+  fullName: CSharpScript.Compiler.CompileActionScriptWithContext<TContext>(System.String)
+  fullName.vb: CSharpScript.Compiler.CompileActionScriptWithContext(Of TContext)(System.String)
+  nameWithType: Compiler.CompileActionScriptWithContext<TContext>(String)
+  nameWithType.vb: Compiler.CompileActionScriptWithContext(Of TContext)(String)
+- uid: CSharpScript.Compiler.CompileScriptWithContext*
+  name: CompileScriptWithContext
+  href: api/CSharpScript.Compiler.html#CSharpScript_Compiler_CompileScriptWithContext_
+  commentId: Overload:CSharpScript.Compiler.CompileScriptWithContext
+  isSpec: "True"
+  fullName: CSharpScript.Compiler.CompileScriptWithContext
+  nameWithType: Compiler.CompileScriptWithContext
+- uid: CSharpScript.Compiler.CompileScriptWithContext``2(System.String)
+  name: CompileScriptWithContext<TResult, TContext>(String)
+  href: api/CSharpScript.Compiler.html#CSharpScript_Compiler_CompileScriptWithContext__2_System_String_
+  commentId: M:CSharpScript.Compiler.CompileScriptWithContext``2(System.String)
+  name.vb: CompileScriptWithContext(Of TResult, TContext)(String)
+  fullName: CSharpScript.Compiler.CompileScriptWithContext<TResult, TContext>(System.String)
+  fullName.vb: CSharpScript.Compiler.CompileScriptWithContext(Of TResult, TContext)(System.String)
+  nameWithType: Compiler.CompileScriptWithContext<TResult, TContext>(String)
+  nameWithType.vb: Compiler.CompileScriptWithContext(Of TResult, TContext)(String)
+- uid: CSharpScript.Exception
+  name: CSharpScript.Exception
+  href: api/CSharpScript.Exception.html
+  commentId: N:CSharpScript.Exception
+  fullName: CSharpScript.Exception
+  nameWithType: CSharpScript.Exception
+- uid: CSharpScript.Exception.NoCodeToCompileException`2
+  name: NoCodeToCompileException<TResult, TContext>
+  href: api/CSharpScript.Exception.NoCodeToCompileException-2.html
+  commentId: T:CSharpScript.Exception.NoCodeToCompileException`2
+  name.vb: NoCodeToCompileException(Of TResult, TContext)
+  fullName: CSharpScript.Exception.NoCodeToCompileException<TResult, TContext>
+  fullName.vb: CSharpScript.Exception.NoCodeToCompileException(Of TResult, TContext)
+  nameWithType: NoCodeToCompileException<TResult, TContext>
+  nameWithType.vb: NoCodeToCompileException(Of TResult, TContext)
+- uid: CSharpScript.Exception.NoCodeToCompileException`2.#ctor
+  name: NoCodeToCompileException()
+  href: api/CSharpScript.Exception.NoCodeToCompileException-2.html#CSharpScript_Exception_NoCodeToCompileException_2__ctor
+  commentId: M:CSharpScript.Exception.NoCodeToCompileException`2.#ctor
+  fullName: CSharpScript.Exception.NoCodeToCompileException<TResult, TContext>.NoCodeToCompileException()
+  fullName.vb: CSharpScript.Exception.NoCodeToCompileException(Of TResult, TContext).NoCodeToCompileException()
+  nameWithType: NoCodeToCompileException<TResult, TContext>.NoCodeToCompileException()
+  nameWithType.vb: NoCodeToCompileException(Of TResult, TContext).NoCodeToCompileException()
+- uid: CSharpScript.Exception.NoCodeToCompileException`2.#ctor*
+  name: NoCodeToCompileException
+  href: api/CSharpScript.Exception.NoCodeToCompileException-2.html#CSharpScript_Exception_NoCodeToCompileException_2__ctor_
+  commentId: Overload:CSharpScript.Exception.NoCodeToCompileException`2.#ctor
+  isSpec: "True"
+  fullName: CSharpScript.Exception.NoCodeToCompileException<TResult, TContext>.NoCodeToCompileException
+  fullName.vb: CSharpScript.Exception.NoCodeToCompileException(Of TResult, TContext).NoCodeToCompileException
+  nameWithType: NoCodeToCompileException<TResult, TContext>.NoCodeToCompileException
+  nameWithType.vb: NoCodeToCompileException(Of TResult, TContext).NoCodeToCompileException
+- uid: CSharpScript.Extension
+  name: CSharpScript.Extension
+  href: api/CSharpScript.Extension.html
+  commentId: N:CSharpScript.Extension
+  fullName: CSharpScript.Extension
+  nameWithType: CSharpScript.Extension
+- uid: CSharpScript.Extension.DiagnosticsExtensions
+  name: DiagnosticsExtensions
+  href: api/CSharpScript.Extension.DiagnosticsExtensions.html
+  commentId: T:CSharpScript.Extension.DiagnosticsExtensions
+  fullName: CSharpScript.Extension.DiagnosticsExtensions
+  nameWithType: DiagnosticsExtensions
+- uid: CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors(ImmutableArray{Diagnostic})
+  name: HasCompilationErrors(ImmutableArray<Diagnostic>)
+  href: api/CSharpScript.Extension.DiagnosticsExtensions.html#CSharpScript_Extension_DiagnosticsExtensions_HasCompilationErrors_ImmutableArray_Diagnostic__
+  commentId: M:CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors(ImmutableArray{Diagnostic})
+  name.vb: HasCompilationErrors(ImmutableArray(Of Diagnostic))
+  fullName: CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors(ImmutableArray<Diagnostic>)
+  fullName.vb: CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors(ImmutableArray(Of Diagnostic))
+  nameWithType: DiagnosticsExtensions.HasCompilationErrors(ImmutableArray<Diagnostic>)
+  nameWithType.vb: DiagnosticsExtensions.HasCompilationErrors(ImmutableArray(Of Diagnostic))
+- uid: CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors*
+  name: HasCompilationErrors
+  href: api/CSharpScript.Extension.DiagnosticsExtensions.html#CSharpScript_Extension_DiagnosticsExtensions_HasCompilationErrors_
+  commentId: Overload:CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors
+  isSpec: "True"
+  fullName: CSharpScript.Extension.DiagnosticsExtensions.HasCompilationErrors
+  nameWithType: DiagnosticsExtensions.HasCompilationErrors
+- uid: CSharpScript.Helper
+  name: CSharpScript.Helper
+  href: api/CSharpScript.Helper.html
+  commentId: N:CSharpScript.Helper
+  fullName: CSharpScript.Helper
+  nameWithType: CSharpScript.Helper
+- uid: CSharpScript.Helper.CommandValidator
+  name: CommandValidator
+  href: api/CSharpScript.Helper.CommandValidator.html
+  commentId: T:CSharpScript.Helper.CommandValidator
+  fullName: CSharpScript.Helper.CommandValidator
+  nameWithType: CommandValidator
+- uid: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty*
+  name: ValidateCommandIsNotNullOrEmpty
+  href: api/CSharpScript.Helper.CommandValidator.html#CSharpScript_Helper_CommandValidator_ValidateCommandIsNotNullOrEmpty_
+  commentId: Overload:CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty
+  isSpec: "True"
+  fullName: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty
+  nameWithType: CommandValidator.ValidateCommandIsNotNullOrEmpty
+- uid: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty``2(IList{System.String})
+  name: ValidateCommandIsNotNullOrEmpty<TResult, TContext>(IList<String>)
+  href: api/CSharpScript.Helper.CommandValidator.html#CSharpScript_Helper_CommandValidator_ValidateCommandIsNotNullOrEmpty__2_IList_System_String__
+  commentId: M:CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty``2(IList{System.String})
+  name.vb: ValidateCommandIsNotNullOrEmpty(Of TResult, TContext)(IList(Of String))
+  fullName: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty<TResult, TContext>(IList<System.String>)
+  fullName.vb: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty(Of TResult, TContext)(IList(Of System.String))
+  nameWithType: CommandValidator.ValidateCommandIsNotNullOrEmpty<TResult, TContext>(IList<String>)
+  nameWithType.vb: CommandValidator.ValidateCommandIsNotNullOrEmpty(Of TResult, TContext)(IList(Of String))
+- uid: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty``2(System.String)
+  name: ValidateCommandIsNotNullOrEmpty<TResult, TContext>(String)
+  href: api/CSharpScript.Helper.CommandValidator.html#CSharpScript_Helper_CommandValidator_ValidateCommandIsNotNullOrEmpty__2_System_String_
+  commentId: M:CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty``2(System.String)
+  name.vb: ValidateCommandIsNotNullOrEmpty(Of TResult, TContext)(String)
+  fullName: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty<TResult, TContext>(System.String)
+  fullName.vb: CSharpScript.Helper.CommandValidator.ValidateCommandIsNotNullOrEmpty(Of TResult, TContext)(System.String)
+  nameWithType: CommandValidator.ValidateCommandIsNotNullOrEmpty<TResult, TContext>(String)
+  nameWithType.vb: CommandValidator.ValidateCommandIsNotNullOrEmpty(Of TResult, TContext)(String)
+- uid: CSharpScript.Options
+  name: Options
+  href: api/CSharpScript.Options.html
+  commentId: T:CSharpScript.Options
+  fullName: CSharpScript.Options
+  nameWithType: Options
+- uid: CSharpScript.Options.ScriptOptions
+  name: ScriptOptions
+  href: api/CSharpScript.Options.html#CSharpScript_Options_ScriptOptions
+  commentId: P:CSharpScript.Options.ScriptOptions
+  fullName: CSharpScript.Options.ScriptOptions
+  nameWithType: Options.ScriptOptions
+- uid: CSharpScript.Options.ScriptOptions*
+  name: ScriptOptions
+  href: api/CSharpScript.Options.html#CSharpScript_Options_ScriptOptions_
+  commentId: Overload:CSharpScript.Options.ScriptOptions
+  isSpec: "True"
+  fullName: CSharpScript.Options.ScriptOptions
+  nameWithType: Options.ScriptOptions
+- uid: CSharpScript.Producer`1
+  name: Producer<TContext>
+  href: api/CSharpScript.Producer-1.html
+  commentId: T:CSharpScript.Producer`1
+  name.vb: Producer(Of TContext)
+  fullName: CSharpScript.Producer<TContext>
+  fullName.vb: CSharpScript.Producer(Of TContext)
+  nameWithType: Producer<TContext>
+  nameWithType.vb: Producer(Of TContext)
+- uid: CSharpScript.Producer`1.ProduceAsync*
+  name: ProduceAsync
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceAsync_
+  commentId: Overload:CSharpScript.Producer`1.ProduceAsync
+  isSpec: "True"
+  fullName: CSharpScript.Producer<TContext>.ProduceAsync
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceAsync
+  nameWithType: Producer<TContext>.ProduceAsync
+  nameWithType.vb: Producer(Of TContext).ProduceAsync
+- uid: CSharpScript.Producer`1.ProduceAsync``1(`0,System.String)
+  name: ProduceAsync<TResult>(TContext, String)
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceAsync__1__0_System_String_
+  commentId: M:CSharpScript.Producer`1.ProduceAsync``1(`0,System.String)
+  name.vb: ProduceAsync(Of TResult)(TContext, String)
+  fullName: CSharpScript.Producer<TContext>.ProduceAsync<TResult>(TContext, System.String)
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceAsync(Of TResult)(TContext, System.String)
+  nameWithType: Producer<TContext>.ProduceAsync<TResult>(TContext, String)
+  nameWithType.vb: Producer(Of TContext).ProduceAsync(Of TResult)(TContext, String)
+- uid: CSharpScript.Producer`1.ProduceAsync``1(System.String)
+  name: ProduceAsync<TResult>(String)
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceAsync__1_System_String_
+  commentId: M:CSharpScript.Producer`1.ProduceAsync``1(System.String)
+  name.vb: ProduceAsync(Of TResult)(String)
+  fullName: CSharpScript.Producer<TContext>.ProduceAsync<TResult>(System.String)
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceAsync(Of TResult)(System.String)
+  nameWithType: Producer<TContext>.ProduceAsync<TResult>(String)
+  nameWithType.vb: Producer(Of TContext).ProduceAsync(Of TResult)(String)
+- uid: CSharpScript.Producer`1.ProduceContextFromScriptAsync(`0,Script)
+  name: ProduceContextFromScriptAsync(TContext, Script)
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceContextFromScriptAsync__0_Script_
+  commentId: M:CSharpScript.Producer`1.ProduceContextFromScriptAsync(`0,Script)
+  fullName: CSharpScript.Producer<TContext>.ProduceContextFromScriptAsync(TContext, Script)
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceContextFromScriptAsync(TContext, Script)
+  nameWithType: Producer<TContext>.ProduceContextFromScriptAsync(TContext, Script)
+  nameWithType.vb: Producer(Of TContext).ProduceContextFromScriptAsync(TContext, Script)
+- uid: CSharpScript.Producer`1.ProduceContextFromScriptAsync*
+  name: ProduceContextFromScriptAsync
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceContextFromScriptAsync_
+  commentId: Overload:CSharpScript.Producer`1.ProduceContextFromScriptAsync
+  isSpec: "True"
+  fullName: CSharpScript.Producer<TContext>.ProduceContextFromScriptAsync
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceContextFromScriptAsync
+  nameWithType: Producer<TContext>.ProduceContextFromScriptAsync
+  nameWithType.vb: Producer(Of TContext).ProduceContextFromScriptAsync
+- uid: CSharpScript.Producer`1.ProduceFromListAsync*
+  name: ProduceFromListAsync
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceFromListAsync_
+  commentId: Overload:CSharpScript.Producer`1.ProduceFromListAsync
+  isSpec: "True"
+  fullName: CSharpScript.Producer<TContext>.ProduceFromListAsync
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceFromListAsync
+  nameWithType: Producer<TContext>.ProduceFromListAsync
+  nameWithType.vb: Producer(Of TContext).ProduceFromListAsync
+- uid: CSharpScript.Producer`1.ProduceFromListAsync``1(`0,System.String[])
+  name: ProduceFromListAsync<TResult>(TContext, String[])
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceFromListAsync__1__0_System_String___
+  commentId: M:CSharpScript.Producer`1.ProduceFromListAsync``1(`0,System.String[])
+  name.vb: ProduceFromListAsync(Of TResult)(TContext, String())
+  fullName: CSharpScript.Producer<TContext>.ProduceFromListAsync<TResult>(TContext, System.String[])
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceFromListAsync(Of TResult)(TContext, System.String())
+  nameWithType: Producer<TContext>.ProduceFromListAsync<TResult>(TContext, String[])
+  nameWithType.vb: Producer(Of TContext).ProduceFromListAsync(Of TResult)(TContext, String())
+- uid: CSharpScript.Producer`1.ProduceFromListAsync``1(System.String[])
+  name: ProduceFromListAsync<TResult>(String[])
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceFromListAsync__1_System_String___
+  commentId: M:CSharpScript.Producer`1.ProduceFromListAsync``1(System.String[])
+  name.vb: ProduceFromListAsync(Of TResult)(String())
+  fullName: CSharpScript.Producer<TContext>.ProduceFromListAsync<TResult>(System.String[])
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceFromListAsync(Of TResult)(System.String())
+  nameWithType: Producer<TContext>.ProduceFromListAsync<TResult>(String[])
+  nameWithType.vb: Producer(Of TContext).ProduceFromListAsync(Of TResult)(String())
+- uid: CSharpScript.Producer`1.ProduceFromScriptAsync*
+  name: ProduceFromScriptAsync
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceFromScriptAsync_
+  commentId: Overload:CSharpScript.Producer`1.ProduceFromScriptAsync
+  isSpec: "True"
+  fullName: CSharpScript.Producer<TContext>.ProduceFromScriptAsync
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceFromScriptAsync
+  nameWithType: Producer<TContext>.ProduceFromScriptAsync
+  nameWithType.vb: Producer(Of TContext).ProduceFromScriptAsync
+- uid: CSharpScript.Producer`1.ProduceFromScriptAsync``1(`0,Script{``0})
+  name: ProduceFromScriptAsync<TResult>(TContext, Script<TResult>)
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceFromScriptAsync__1__0_Script___0__
+  commentId: M:CSharpScript.Producer`1.ProduceFromScriptAsync``1(`0,Script{``0})
+  name.vb: ProduceFromScriptAsync(Of TResult)(TContext, Script(Of TResult))
+  fullName: CSharpScript.Producer<TContext>.ProduceFromScriptAsync<TResult>(TContext, Script<TResult>)
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceFromScriptAsync(Of TResult)(TContext, Script(Of TResult))
+  nameWithType: Producer<TContext>.ProduceFromScriptAsync<TResult>(TContext, Script<TResult>)
+  nameWithType.vb: Producer(Of TContext).ProduceFromScriptAsync(Of TResult)(TContext, Script(Of TResult))
+- uid: CSharpScript.Producer`1.ProduceFromScriptAsync``1(Script{``0})
+  name: ProduceFromScriptAsync<TResult>(Script<TResult>)
+  href: api/CSharpScript.Producer-1.html#CSharpScript_Producer_1_ProduceFromScriptAsync__1_Script___0__
+  commentId: M:CSharpScript.Producer`1.ProduceFromScriptAsync``1(Script{``0})
+  name.vb: ProduceFromScriptAsync(Of TResult)(Script(Of TResult))
+  fullName: CSharpScript.Producer<TContext>.ProduceFromScriptAsync<TResult>(Script<TResult>)
+  fullName.vb: CSharpScript.Producer(Of TContext).ProduceFromScriptAsync(Of TResult)(Script(Of TResult))
+  nameWithType: Producer<TContext>.ProduceFromScriptAsync<TResult>(Script<TResult>)
+  nameWithType.vb: Producer(Of TContext).ProduceFromScriptAsync(Of TResult)(Script(Of TResult))
+- uid: GoalSeekContract
+  name: GoalSeekContract
+  href: api/GoalSeekContract.html
+  commentId: N:GoalSeekContract
+  fullName: GoalSeekContract
+  nameWithType: GoalSeekContract
+- uid: GoalSeekContract.GoalSeek`1
+  name: GoalSeek<TContext>
+  href: api/GoalSeekContract.GoalSeek-1.html
+  commentId: T:GoalSeekContract.GoalSeek`1
+  name.vb: GoalSeek(Of TContext)
+  fullName: GoalSeekContract.GoalSeek<TContext>
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext)
+  nameWithType: GoalSeek<TContext>
+  nameWithType.vb: GoalSeek(Of TContext)
+- uid: GoalSeekContract.GoalSeek`1.#ctor(Func{`0},ITree{`0},Func{`0,System.Decimal,`0},Func{`0,System.Decimal},Func{`0,System.Decimal})
+  name: GoalSeek(Func<TContext>, ITree<TContext>, Func<TContext, Decimal, TContext>, Func<TContext, Decimal>, Func<TContext, Decimal>)
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1__ctor_Func__0__ITree__0__Func__0_System_Decimal__0__Func__0_System_Decimal__Func__0_System_Decimal__
+  commentId: M:GoalSeekContract.GoalSeek`1.#ctor(Func{`0},ITree{`0},Func{`0,System.Decimal,`0},Func{`0,System.Decimal},Func{`0,System.Decimal})
+  name.vb: GoalSeek(Func(Of TContext), ITree(Of TContext), Func(Of TContext, Decimal, TContext), Func(Of TContext, Decimal), Func(Of TContext, Decimal))
+  fullName: GoalSeekContract.GoalSeek<TContext>.GoalSeek(Func<TContext>, ITree<TContext>, Func<TContext, System.Decimal, TContext>, Func<TContext, System.Decimal>, Func<TContext, System.Decimal>)
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GoalSeek(Func(Of TContext), ITree(Of TContext), Func(Of TContext, System.Decimal, TContext), Func(Of TContext, System.Decimal), Func(Of TContext, System.Decimal))
+  nameWithType: GoalSeek<TContext>.GoalSeek(Func<TContext>, ITree<TContext>, Func<TContext, Decimal, TContext>, Func<TContext, Decimal>, Func<TContext, Decimal>)
+  nameWithType.vb: GoalSeek(Of TContext).GoalSeek(Func(Of TContext), ITree(Of TContext), Func(Of TContext, Decimal, TContext), Func(Of TContext, Decimal), Func(Of TContext, Decimal))
+- uid: GoalSeekContract.GoalSeek`1.#ctor*
+  name: GoalSeek
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1__ctor_
+  commentId: Overload:GoalSeekContract.GoalSeek`1.#ctor
+  isSpec: "True"
+  fullName: GoalSeekContract.GoalSeek<TContext>.GoalSeek
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GoalSeek
+  nameWithType: GoalSeek<TContext>.GoalSeek
+  nameWithType.vb: GoalSeek(Of TContext).GoalSeek
+- uid: GoalSeekContract.GoalSeek`1.GetExecutionTine
+  name: GetExecutionTine()
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1_GetExecutionTine
+  commentId: M:GoalSeekContract.GoalSeek`1.GetExecutionTine
+  fullName: GoalSeekContract.GoalSeek<TContext>.GetExecutionTine()
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GetExecutionTine()
+  nameWithType: GoalSeek<TContext>.GetExecutionTine()
+  nameWithType.vb: GoalSeek(Of TContext).GetExecutionTine()
+- uid: GoalSeekContract.GoalSeek`1.GetExecutionTine*
+  name: GetExecutionTine
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1_GetExecutionTine_
+  commentId: Overload:GoalSeekContract.GoalSeek`1.GetExecutionTine
+  isSpec: "True"
+  fullName: GoalSeekContract.GoalSeek<TContext>.GetExecutionTine
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GetExecutionTine
+  nameWithType: GoalSeek<TContext>.GetExecutionTine
+  nameWithType.vb: GoalSeek(Of TContext).GetExecutionTine
+- uid: GoalSeekContract.GoalSeek`1.GetGoalSeekValue(System.Decimal)
+  name: GetGoalSeekValue(Decimal)
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1_GetGoalSeekValue_System_Decimal_
+  commentId: M:GoalSeekContract.GoalSeek`1.GetGoalSeekValue(System.Decimal)
+  fullName: GoalSeekContract.GoalSeek<TContext>.GetGoalSeekValue(System.Decimal)
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GetGoalSeekValue(System.Decimal)
+  nameWithType: GoalSeek<TContext>.GetGoalSeekValue(Decimal)
+  nameWithType.vb: GoalSeek(Of TContext).GetGoalSeekValue(Decimal)
+- uid: GoalSeekContract.GoalSeek`1.GetGoalSeekValue*
+  name: GetGoalSeekValue
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1_GetGoalSeekValue_
+  commentId: Overload:GoalSeekContract.GoalSeek`1.GetGoalSeekValue
+  isSpec: "True"
+  fullName: GoalSeekContract.GoalSeek<TContext>.GetGoalSeekValue
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GetGoalSeekValue
+  nameWithType: GoalSeek<TContext>.GetGoalSeekValue
+  nameWithType.vb: GoalSeek(Of TContext).GetGoalSeekValue
+- uid: GoalSeekContract.GoalSeek`1.GetIterations
+  name: GetIterations()
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1_GetIterations
+  commentId: M:GoalSeekContract.GoalSeek`1.GetIterations
+  fullName: GoalSeekContract.GoalSeek<TContext>.GetIterations()
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GetIterations()
+  nameWithType: GoalSeek<TContext>.GetIterations()
+  nameWithType.vb: GoalSeek(Of TContext).GetIterations()
+- uid: GoalSeekContract.GoalSeek`1.GetIterations*
+  name: GetIterations
+  href: api/GoalSeekContract.GoalSeek-1.html#GoalSeekContract_GoalSeek_1_GetIterations_
+  commentId: Overload:GoalSeekContract.GoalSeek`1.GetIterations
+  isSpec: "True"
+  fullName: GoalSeekContract.GoalSeek<TContext>.GetIterations
+  fullName.vb: GoalSeekContract.GoalSeek(Of TContext).GetIterations
+  nameWithType: GoalSeek<TContext>.GetIterations
+  nameWithType.vb: GoalSeek(Of TContext).GetIterations
+- uid: GoalSeekImplementation
+  name: GoalSeekImplementation
+  href: api/GoalSeekImplementation.html
+  commentId: N:GoalSeekImplementation
+  fullName: GoalSeekImplementation
+  nameWithType: GoalSeekImplementation
+- uid: GoalSeekImplementation.IGoalSeek
+  name: IGoalSeek
+  href: api/GoalSeekImplementation.IGoalSeek.html
+  commentId: T:GoalSeekImplementation.IGoalSeek
+  fullName: GoalSeekImplementation.IGoalSeek
+  nameWithType: IGoalSeek
+- uid: GoalSeekImplementation.IGoalSeek.GetGoalSeekValue(System.Decimal)
+  name: GetGoalSeekValue(Decimal)
+  href: api/GoalSeekImplementation.IGoalSeek.html#GoalSeekImplementation_IGoalSeek_GetGoalSeekValue_System_Decimal_
+  commentId: M:GoalSeekImplementation.IGoalSeek.GetGoalSeekValue(System.Decimal)
+  fullName: GoalSeekImplementation.IGoalSeek.GetGoalSeekValue(System.Decimal)
+  nameWithType: IGoalSeek.GetGoalSeekValue(Decimal)
+- uid: GoalSeekImplementation.IGoalSeek.GetGoalSeekValue*
+  name: GetGoalSeekValue
+  href: api/GoalSeekImplementation.IGoalSeek.html#GoalSeekImplementation_IGoalSeek_GetGoalSeekValue_
+  commentId: Overload:GoalSeekImplementation.IGoalSeek.GetGoalSeekValue
+  isSpec: "True"
+  fullName: GoalSeekImplementation.IGoalSeek.GetGoalSeekValue
+  nameWithType: IGoalSeek.GetGoalSeekValue
+- uid: RoslynCompiler
+  name: RoslynCompiler
+  href: api/RoslynCompiler.html
+  commentId: N:RoslynCompiler
+  fullName: RoslynCompiler
+  nameWithType: RoslynCompiler
+- uid: RoslynCompiler.BaseProducer
+  name: BaseProducer
+  href: api/RoslynCompiler.BaseProducer.html
+  commentId: T:RoslynCompiler.BaseProducer
+  fullName: RoslynCompiler.BaseProducer
+  nameWithType: BaseProducer
+- uid: RoslynCompiler.BaseProducer.Run
+  name: Run()
+  href: api/RoslynCompiler.BaseProducer.html#RoslynCompiler_BaseProducer_Run
+  commentId: M:RoslynCompiler.BaseProducer.Run
+  fullName: RoslynCompiler.BaseProducer.Run()
+  nameWithType: BaseProducer.Run()
+- uid: RoslynCompiler.BaseProducer.Run*
+  name: Run
+  href: api/RoslynCompiler.BaseProducer.html#RoslynCompiler_BaseProducer_Run_
+  commentId: Overload:RoslynCompiler.BaseProducer.Run
+  isSpec: "True"
+  fullName: RoslynCompiler.BaseProducer.Run
+  nameWithType: BaseProducer.Run
+- uid: RoslynCompiler.CompilerExtensions
+  name: CompilerExtensions
+  href: api/RoslynCompiler.CompilerExtensions.html
+  commentId: T:RoslynCompiler.CompilerExtensions
+  fullName: RoslynCompiler.CompilerExtensions
+  nameWithType: CompilerExtensions
+- uid: RoslynCompiler.CompilerExtensions.CompileAndCreateObject(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name: CompileAndCreateObject(ICompiler, ICompilerInstructions, Object[])
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_CompileAndCreateObject_CompilerContract_ICompiler_CompilerContract_ICompilerInstructions_System_Object___
+  commentId: M:RoslynCompiler.CompilerExtensions.CompileAndCreateObject(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name.vb: CompileAndCreateObject(ICompiler, ICompilerInstructions, Object())
+  fullName: RoslynCompiler.CompilerExtensions.CompileAndCreateObject(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object[])
+  fullName.vb: RoslynCompiler.CompilerExtensions.CompileAndCreateObject(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object())
+  nameWithType: CompilerExtensions.CompileAndCreateObject(ICompiler, ICompilerInstructions, Object[])
+  nameWithType.vb: CompilerExtensions.CompileAndCreateObject(ICompiler, ICompilerInstructions, Object())
+- uid: RoslynCompiler.CompilerExtensions.CompileAndCreateObject*
+  name: CompileAndCreateObject
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_CompileAndCreateObject_
+  commentId: Overload:RoslynCompiler.CompilerExtensions.CompileAndCreateObject
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerExtensions.CompileAndCreateObject
+  nameWithType: CompilerExtensions.CompileAndCreateObject
+- uid: RoslynCompiler.CompilerExtensions.CompileAndCreateObject``1(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name: CompileAndCreateObject<T>(ICompiler, ICompilerInstructions, Object[])
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_CompileAndCreateObject__1_CompilerContract_ICompiler_CompilerContract_ICompilerInstructions_System_Object___
+  commentId: M:RoslynCompiler.CompilerExtensions.CompileAndCreateObject``1(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name.vb: CompileAndCreateObject(Of T)(ICompiler, ICompilerInstructions, Object())
+  fullName: RoslynCompiler.CompilerExtensions.CompileAndCreateObject<T>(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object[])
+  fullName.vb: RoslynCompiler.CompilerExtensions.CompileAndCreateObject(Of T)(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object())
+  nameWithType: CompilerExtensions.CompileAndCreateObject<T>(ICompiler, ICompilerInstructions, Object[])
+  nameWithType.vb: CompilerExtensions.CompileAndCreateObject(Of T)(ICompiler, ICompilerInstructions, Object())
+- uid: RoslynCompiler.CompilerExtensions.RunProducer(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name: RunProducer(ICompiler, ICompilerInstructions, Object[])
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_RunProducer_CompilerContract_ICompiler_CompilerContract_ICompilerInstructions_System_Object___
+  commentId: M:RoslynCompiler.CompilerExtensions.RunProducer(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name.vb: RunProducer(ICompiler, ICompilerInstructions, Object())
+  fullName: RoslynCompiler.CompilerExtensions.RunProducer(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object[])
+  fullName.vb: RoslynCompiler.CompilerExtensions.RunProducer(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object())
+  nameWithType: CompilerExtensions.RunProducer(ICompiler, ICompilerInstructions, Object[])
+  nameWithType.vb: CompilerExtensions.RunProducer(ICompiler, ICompilerInstructions, Object())
+- uid: RoslynCompiler.CompilerExtensions.RunProducer*
+  name: RunProducer
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_RunProducer_
+  commentId: Overload:RoslynCompiler.CompilerExtensions.RunProducer
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerExtensions.RunProducer
+  nameWithType: CompilerExtensions.RunProducer
+- uid: RoslynCompiler.CompilerExtensions.RunScript(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name: RunScript(ICompiler, ICompilerInstructions, Object[])
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_RunScript_CompilerContract_ICompiler_CompilerContract_ICompilerInstructions_System_Object___
+  commentId: M:RoslynCompiler.CompilerExtensions.RunScript(CompilerContract.ICompiler,CompilerContract.ICompilerInstructions,System.Object[])
+  name.vb: RunScript(ICompiler, ICompilerInstructions, Object())
+  fullName: RoslynCompiler.CompilerExtensions.RunScript(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object[])
+  fullName.vb: RoslynCompiler.CompilerExtensions.RunScript(CompilerContract.ICompiler, CompilerContract.ICompilerInstructions, System.Object())
+  nameWithType: CompilerExtensions.RunScript(ICompiler, ICompilerInstructions, Object[])
+  nameWithType.vb: CompilerExtensions.RunScript(ICompiler, ICompilerInstructions, Object())
+- uid: RoslynCompiler.CompilerExtensions.RunScript*
+  name: RunScript
+  href: api/RoslynCompiler.CompilerExtensions.html#RoslynCompiler_CompilerExtensions_RunScript_
+  commentId: Overload:RoslynCompiler.CompilerExtensions.RunScript
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerExtensions.RunScript
+  nameWithType: CompilerExtensions.RunScript
+- uid: RoslynCompiler.CompilerInstructions
+  name: CompilerInstructions
+  href: api/RoslynCompiler.CompilerInstructions.html
+  commentId: T:RoslynCompiler.CompilerInstructions
+  fullName: RoslynCompiler.CompilerInstructions
+  nameWithType: CompilerInstructions
+- uid: RoslynCompiler.CompilerInstructions.AssemblyLocations
+  name: AssemblyLocations
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_AssemblyLocations
+  commentId: P:RoslynCompiler.CompilerInstructions.AssemblyLocations
+  fullName: RoslynCompiler.CompilerInstructions.AssemblyLocations
+  nameWithType: CompilerInstructions.AssemblyLocations
+- uid: RoslynCompiler.CompilerInstructions.AssemblyLocations*
+  name: AssemblyLocations
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_AssemblyLocations_
+  commentId: Overload:RoslynCompiler.CompilerInstructions.AssemblyLocations
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerInstructions.AssemblyLocations
+  nameWithType: CompilerInstructions.AssemblyLocations
+- uid: RoslynCompiler.CompilerInstructions.ClassName
+  name: ClassName
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_ClassName
+  commentId: P:RoslynCompiler.CompilerInstructions.ClassName
+  fullName: RoslynCompiler.CompilerInstructions.ClassName
+  nameWithType: CompilerInstructions.ClassName
+- uid: RoslynCompiler.CompilerInstructions.ClassName*
+  name: ClassName
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_ClassName_
+  commentId: Overload:RoslynCompiler.CompilerInstructions.ClassName
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerInstructions.ClassName
+  nameWithType: CompilerInstructions.ClassName
+- uid: RoslynCompiler.CompilerInstructions.ClassType
+  name: ClassType
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_ClassType
+  commentId: P:RoslynCompiler.CompilerInstructions.ClassType
+  fullName: RoslynCompiler.CompilerInstructions.ClassType
+  nameWithType: CompilerInstructions.ClassType
+- uid: RoslynCompiler.CompilerInstructions.ClassType*
+  name: ClassType
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_ClassType_
+  commentId: Overload:RoslynCompiler.CompilerInstructions.ClassType
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerInstructions.ClassType
+  nameWithType: CompilerInstructions.ClassType
+- uid: RoslynCompiler.CompilerInstructions.Code
+  name: Code
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_Code
+  commentId: P:RoslynCompiler.CompilerInstructions.Code
+  fullName: RoslynCompiler.CompilerInstructions.Code
+  nameWithType: CompilerInstructions.Code
+- uid: RoslynCompiler.CompilerInstructions.Code*
+  name: Code
+  href: api/RoslynCompiler.CompilerInstructions.html#RoslynCompiler_CompilerInstructions_Code_
+  commentId: Overload:RoslynCompiler.CompilerInstructions.Code
+  isSpec: "True"
+  fullName: RoslynCompiler.CompilerInstructions.Code
+  nameWithType: CompilerInstructions.Code
+- uid: RoslynCompiler.RoslynCompilationException
+  name: RoslynCompilationException
+  href: api/RoslynCompiler.RoslynCompilationException.html
+  commentId: T:RoslynCompiler.RoslynCompilationException
+  fullName: RoslynCompiler.RoslynCompilationException
+  nameWithType: RoslynCompilationException
+- uid: RoslynCompiler.RoslynCompilationException.#ctor(System.String,EmitResult)
+  name: RoslynCompilationException(String, EmitResult)
+  href: api/RoslynCompiler.RoslynCompilationException.html#RoslynCompiler_RoslynCompilationException__ctor_System_String_EmitResult_
+  commentId: M:RoslynCompiler.RoslynCompilationException.#ctor(System.String,EmitResult)
+  fullName: RoslynCompiler.RoslynCompilationException.RoslynCompilationException(System.String, EmitResult)
+  nameWithType: RoslynCompilationException.RoslynCompilationException(String, EmitResult)
+- uid: RoslynCompiler.RoslynCompilationException.#ctor*
+  name: RoslynCompilationException
+  href: api/RoslynCompiler.RoslynCompilationException.html#RoslynCompiler_RoslynCompilationException__ctor_
+  commentId: Overload:RoslynCompiler.RoslynCompilationException.#ctor
+  isSpec: "True"
+  fullName: RoslynCompiler.RoslynCompilationException.RoslynCompilationException
+  nameWithType: RoslynCompilationException.RoslynCompilationException
+- uid: RoslynCompiler.RoslynCompilationException.Result
+  name: Result
+  href: api/RoslynCompiler.RoslynCompilationException.html#RoslynCompiler_RoslynCompilationException_Result
+  commentId: P:RoslynCompiler.RoslynCompilationException.Result
+  fullName: RoslynCompiler.RoslynCompilationException.Result
+  nameWithType: RoslynCompilationException.Result
+- uid: RoslynCompiler.RoslynCompilationException.Result*
+  name: Result
+  href: api/RoslynCompiler.RoslynCompilationException.html#RoslynCompiler_RoslynCompilationException_Result_
+  commentId: Overload:RoslynCompiler.RoslynCompilationException.Result
+  isSpec: "True"
+  fullName: RoslynCompiler.RoslynCompilationException.Result
+  nameWithType: RoslynCompilationException.Result
+- uid: RoslynCompiler.RoslynCompiler
+  name: RoslynCompiler
+  href: api/RoslynCompiler.RoslynCompiler.html
+  commentId: T:RoslynCompiler.RoslynCompiler
+  fullName: RoslynCompiler.RoslynCompiler
+  nameWithType: RoslynCompiler
+- uid: RoslynCompiler.RoslynCompiler.Compile(System.String,System.String[])
+  name: Compile(String, String[])
+  href: api/RoslynCompiler.RoslynCompiler.html#RoslynCompiler_RoslynCompiler_Compile_System_String_System_String___
+  commentId: M:RoslynCompiler.RoslynCompiler.Compile(System.String,System.String[])
+  name.vb: Compile(String, String())
+  fullName: RoslynCompiler.RoslynCompiler.Compile(System.String, System.String[])
+  fullName.vb: RoslynCompiler.RoslynCompiler.Compile(System.String, System.String())
+  nameWithType: RoslynCompiler.Compile(String, String[])
+  nameWithType.vb: RoslynCompiler.Compile(String, String())
+- uid: RoslynCompiler.RoslynCompiler.Compile*
+  name: Compile
+  href: api/RoslynCompiler.RoslynCompiler.html#RoslynCompiler_RoslynCompiler_Compile_
+  commentId: Overload:RoslynCompiler.RoslynCompiler.Compile
+  isSpec: "True"
+  fullName: RoslynCompiler.RoslynCompiler.Compile
+  nameWithType: RoslynCompiler.Compile
+- uid: RoslynCompiler.RoslynCompiler.Options
+  name: Options
+  href: api/RoslynCompiler.RoslynCompiler.html#RoslynCompiler_RoslynCompiler_Options
+  commentId: P:RoslynCompiler.RoslynCompiler.Options
+  fullName: RoslynCompiler.RoslynCompiler.Options
+  nameWithType: RoslynCompiler.Options
+- uid: RoslynCompiler.RoslynCompiler.Options*
+  name: Options
+  href: api/RoslynCompiler.RoslynCompiler.html#RoslynCompiler_RoslynCompiler_Options_
+  commentId: Overload:RoslynCompiler.RoslynCompiler.Options
+  isSpec: "True"
+  fullName: RoslynCompiler.RoslynCompiler.Options
+  nameWithType: RoslynCompiler.Options
+- uid: ScriptContract
+  name: ScriptContract
+  href: api/ScriptContract.html
+  commentId: N:ScriptContract
+  fullName: ScriptContract
+  nameWithType: ScriptContract
+- uid: ScriptContract.ICompiler
+  name: ICompiler
+  href: api/ScriptContract.ICompiler.html
+  commentId: T:ScriptContract.ICompiler
+  fullName: ScriptContract.ICompiler
+  nameWithType: ICompiler
+- uid: ScriptContract.ICompiler.Compile*
+  name: Compile
+  href: api/ScriptContract.ICompiler.html#ScriptContract_ICompiler_Compile_
+  commentId: Overload:ScriptContract.ICompiler.Compile
+  isSpec: "True"
+  fullName: ScriptContract.ICompiler.Compile
+  nameWithType: ICompiler.Compile
+- uid: ScriptContract.ICompiler.Compile``1(System.String)
+  name: Compile<TResult>(String)
+  href: api/ScriptContract.ICompiler.html#ScriptContract_ICompiler_Compile__1_System_String_
+  commentId: M:ScriptContract.ICompiler.Compile``1(System.String)
+  name.vb: Compile(Of TResult)(String)
+  fullName: ScriptContract.ICompiler.Compile<TResult>(System.String)
+  fullName.vb: ScriptContract.ICompiler.Compile(Of TResult)(System.String)
+  nameWithType: ICompiler.Compile<TResult>(String)
+  nameWithType.vb: ICompiler.Compile(Of TResult)(String)
+- uid: ScriptContract.ICompiler.CompileActionScriptWithContext*
+  name: CompileActionScriptWithContext
+  href: api/ScriptContract.ICompiler.html#ScriptContract_ICompiler_CompileActionScriptWithContext_
+  commentId: Overload:ScriptContract.ICompiler.CompileActionScriptWithContext
+  isSpec: "True"
+  fullName: ScriptContract.ICompiler.CompileActionScriptWithContext
+  nameWithType: ICompiler.CompileActionScriptWithContext
+- uid: ScriptContract.ICompiler.CompileActionScriptWithContext``1(System.String)
+  name: CompileActionScriptWithContext<TContext>(String)
+  href: api/ScriptContract.ICompiler.html#ScriptContract_ICompiler_CompileActionScriptWithContext__1_System_String_
+  commentId: M:ScriptContract.ICompiler.CompileActionScriptWithContext``1(System.String)
+  name.vb: CompileActionScriptWithContext(Of TContext)(String)
+  fullName: ScriptContract.ICompiler.CompileActionScriptWithContext<TContext>(System.String)
+  fullName.vb: ScriptContract.ICompiler.CompileActionScriptWithContext(Of TContext)(System.String)
+  nameWithType: ICompiler.CompileActionScriptWithContext<TContext>(String)
+  nameWithType.vb: ICompiler.CompileActionScriptWithContext(Of TContext)(String)
+- uid: ScriptContract.ICompiler.CompileScriptWithContext*
+  name: CompileScriptWithContext
+  href: api/ScriptContract.ICompiler.html#ScriptContract_ICompiler_CompileScriptWithContext_
+  commentId: Overload:ScriptContract.ICompiler.CompileScriptWithContext
+  isSpec: "True"
+  fullName: ScriptContract.ICompiler.CompileScriptWithContext
+  nameWithType: ICompiler.CompileScriptWithContext
+- uid: ScriptContract.ICompiler.CompileScriptWithContext``2(System.String)
+  name: CompileScriptWithContext<TResult, TContext>(String)
+  href: api/ScriptContract.ICompiler.html#ScriptContract_ICompiler_CompileScriptWithContext__2_System_String_
+  commentId: M:ScriptContract.ICompiler.CompileScriptWithContext``2(System.String)
+  name.vb: CompileScriptWithContext(Of TResult, TContext)(String)
+  fullName: ScriptContract.ICompiler.CompileScriptWithContext<TResult, TContext>(System.String)
+  fullName.vb: ScriptContract.ICompiler.CompileScriptWithContext(Of TResult, TContext)(System.String)
+  nameWithType: ICompiler.CompileScriptWithContext<TResult, TContext>(String)
+  nameWithType.vb: ICompiler.CompileScriptWithContext(Of TResult, TContext)(String)
+- uid: ScriptContract.INoContext
+  name: INoContext
+  href: api/ScriptContract.INoContext.html
+  commentId: T:ScriptContract.INoContext
+  fullName: ScriptContract.INoContext
+  nameWithType: INoContext
+- uid: ScriptContract.IProducer`1
+  name: IProducer<TContext>
+  href: api/ScriptContract.IProducer-1.html
+  commentId: T:ScriptContract.IProducer`1
+  name.vb: IProducer(Of TContext)
+  fullName: ScriptContract.IProducer<TContext>
+  fullName.vb: ScriptContract.IProducer(Of TContext)
+  nameWithType: IProducer<TContext>
+  nameWithType.vb: IProducer(Of TContext)
+- uid: ScriptContract.IProducer`1.ProduceAsync*
+  name: ProduceAsync
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceAsync_
+  commentId: Overload:ScriptContract.IProducer`1.ProduceAsync
+  isSpec: "True"
+  fullName: ScriptContract.IProducer<TContext>.ProduceAsync
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceAsync
+  nameWithType: IProducer<TContext>.ProduceAsync
+  nameWithType.vb: IProducer(Of TContext).ProduceAsync
+- uid: ScriptContract.IProducer`1.ProduceAsync``1(`0,System.String)
+  name: ProduceAsync<TResult>(TContext, String)
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceAsync__1__0_System_String_
+  commentId: M:ScriptContract.IProducer`1.ProduceAsync``1(`0,System.String)
+  name.vb: ProduceAsync(Of TResult)(TContext, String)
+  fullName: ScriptContract.IProducer<TContext>.ProduceAsync<TResult>(TContext, System.String)
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceAsync(Of TResult)(TContext, System.String)
+  nameWithType: IProducer<TContext>.ProduceAsync<TResult>(TContext, String)
+  nameWithType.vb: IProducer(Of TContext).ProduceAsync(Of TResult)(TContext, String)
+- uid: ScriptContract.IProducer`1.ProduceAsync``1(System.String)
+  name: ProduceAsync<TResult>(String)
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceAsync__1_System_String_
+  commentId: M:ScriptContract.IProducer`1.ProduceAsync``1(System.String)
+  name.vb: ProduceAsync(Of TResult)(String)
+  fullName: ScriptContract.IProducer<TContext>.ProduceAsync<TResult>(System.String)
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceAsync(Of TResult)(System.String)
+  nameWithType: IProducer<TContext>.ProduceAsync<TResult>(String)
+  nameWithType.vb: IProducer(Of TContext).ProduceAsync(Of TResult)(String)
+- uid: ScriptContract.IProducer`1.ProduceContextFromScriptAsync(`0,Script)
+  name: ProduceContextFromScriptAsync(TContext, Script)
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceContextFromScriptAsync__0_Script_
+  commentId: M:ScriptContract.IProducer`1.ProduceContextFromScriptAsync(`0,Script)
+  fullName: ScriptContract.IProducer<TContext>.ProduceContextFromScriptAsync(TContext, Script)
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceContextFromScriptAsync(TContext, Script)
+  nameWithType: IProducer<TContext>.ProduceContextFromScriptAsync(TContext, Script)
+  nameWithType.vb: IProducer(Of TContext).ProduceContextFromScriptAsync(TContext, Script)
+- uid: ScriptContract.IProducer`1.ProduceContextFromScriptAsync*
+  name: ProduceContextFromScriptAsync
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceContextFromScriptAsync_
+  commentId: Overload:ScriptContract.IProducer`1.ProduceContextFromScriptAsync
+  isSpec: "True"
+  fullName: ScriptContract.IProducer<TContext>.ProduceContextFromScriptAsync
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceContextFromScriptAsync
+  nameWithType: IProducer<TContext>.ProduceContextFromScriptAsync
+  nameWithType.vb: IProducer(Of TContext).ProduceContextFromScriptAsync
+- uid: ScriptContract.IProducer`1.ProduceFromListAsync*
+  name: ProduceFromListAsync
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceFromListAsync_
+  commentId: Overload:ScriptContract.IProducer`1.ProduceFromListAsync
+  isSpec: "True"
+  fullName: ScriptContract.IProducer<TContext>.ProduceFromListAsync
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceFromListAsync
+  nameWithType: IProducer<TContext>.ProduceFromListAsync
+  nameWithType.vb: IProducer(Of TContext).ProduceFromListAsync
+- uid: ScriptContract.IProducer`1.ProduceFromListAsync``1(`0,System.String[])
+  name: ProduceFromListAsync<TResult>(TContext, String[])
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceFromListAsync__1__0_System_String___
+  commentId: M:ScriptContract.IProducer`1.ProduceFromListAsync``1(`0,System.String[])
+  name.vb: ProduceFromListAsync(Of TResult)(TContext, String())
+  fullName: ScriptContract.IProducer<TContext>.ProduceFromListAsync<TResult>(TContext, System.String[])
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceFromListAsync(Of TResult)(TContext, System.String())
+  nameWithType: IProducer<TContext>.ProduceFromListAsync<TResult>(TContext, String[])
+  nameWithType.vb: IProducer(Of TContext).ProduceFromListAsync(Of TResult)(TContext, String())
+- uid: ScriptContract.IProducer`1.ProduceFromListAsync``1(System.String[])
+  name: ProduceFromListAsync<TResult>(String[])
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceFromListAsync__1_System_String___
+  commentId: M:ScriptContract.IProducer`1.ProduceFromListAsync``1(System.String[])
+  name.vb: ProduceFromListAsync(Of TResult)(String())
+  fullName: ScriptContract.IProducer<TContext>.ProduceFromListAsync<TResult>(System.String[])
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceFromListAsync(Of TResult)(System.String())
+  nameWithType: IProducer<TContext>.ProduceFromListAsync<TResult>(String[])
+  nameWithType.vb: IProducer(Of TContext).ProduceFromListAsync(Of TResult)(String())
+- uid: ScriptContract.IProducer`1.ProduceFromScriptAsync*
+  name: ProduceFromScriptAsync
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceFromScriptAsync_
+  commentId: Overload:ScriptContract.IProducer`1.ProduceFromScriptAsync
+  isSpec: "True"
+  fullName: ScriptContract.IProducer<TContext>.ProduceFromScriptAsync
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceFromScriptAsync
+  nameWithType: IProducer<TContext>.ProduceFromScriptAsync
+  nameWithType.vb: IProducer(Of TContext).ProduceFromScriptAsync
+- uid: ScriptContract.IProducer`1.ProduceFromScriptAsync``1(`0,Script{``0})
+  name: ProduceFromScriptAsync<TResult>(TContext, Script<TResult>)
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceFromScriptAsync__1__0_Script___0__
+  commentId: M:ScriptContract.IProducer`1.ProduceFromScriptAsync``1(`0,Script{``0})
+  name.vb: ProduceFromScriptAsync(Of TResult)(TContext, Script(Of TResult))
+  fullName: ScriptContract.IProducer<TContext>.ProduceFromScriptAsync<TResult>(TContext, Script<TResult>)
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceFromScriptAsync(Of TResult)(TContext, Script(Of TResult))
+  nameWithType: IProducer<TContext>.ProduceFromScriptAsync<TResult>(TContext, Script<TResult>)
+  nameWithType.vb: IProducer(Of TContext).ProduceFromScriptAsync(Of TResult)(TContext, Script(Of TResult))
+- uid: ScriptContract.IProducer`1.ProduceFromScriptAsync``1(Script{``0})
+  name: ProduceFromScriptAsync<TResult>(Script<TResult>)
+  href: api/ScriptContract.IProducer-1.html#ScriptContract_IProducer_1_ProduceFromScriptAsync__1_Script___0__
+  commentId: M:ScriptContract.IProducer`1.ProduceFromScriptAsync``1(Script{``0})
+  name.vb: ProduceFromScriptAsync(Of TResult)(Script(Of TResult))
+  fullName: ScriptContract.IProducer<TContext>.ProduceFromScriptAsync<TResult>(Script<TResult>)
+  fullName.vb: ScriptContract.IProducer(Of TContext).ProduceFromScriptAsync(Of TResult)(Script(Of TResult))
+  nameWithType: IProducer<TContext>.ProduceFromScriptAsync<TResult>(Script<TResult>)
+  nameWithType.vb: IProducer(Of TContext).ProduceFromScriptAsync(Of TResult)(Script(Of TResult))
+- uid: SerializationAsJson
+  name: SerializationAsJson
+  href: api/SerializationAsJson.html
+  commentId: N:SerializationAsJson
+  fullName: SerializationAsJson
+  nameWithType: SerializationAsJson
+- uid: SerializationAsJson.Serializer
+  name: Serializer
+  href: api/SerializationAsJson.Serializer.html
+  commentId: T:SerializationAsJson.Serializer
+  fullName: SerializationAsJson.Serializer
+  nameWithType: Serializer
+- uid: SerializationAsJson.Serializer.Deserialize*
+  name: Deserialize
+  href: api/SerializationAsJson.Serializer.html#SerializationAsJson_Serializer_Deserialize_
+  commentId: Overload:SerializationAsJson.Serializer.Deserialize
+  isSpec: "True"
+  fullName: SerializationAsJson.Serializer.Deserialize
+  nameWithType: Serializer.Deserialize
+- uid: SerializationAsJson.Serializer.Deserialize``1(System.String)
+  name: Deserialize<T>(String)
+  href: api/SerializationAsJson.Serializer.html#SerializationAsJson_Serializer_Deserialize__1_System_String_
+  commentId: M:SerializationAsJson.Serializer.Deserialize``1(System.String)
+  name.vb: Deserialize(Of T)(String)
+  fullName: SerializationAsJson.Serializer.Deserialize<T>(System.String)
+  fullName.vb: SerializationAsJson.Serializer.Deserialize(Of T)(System.String)
+  nameWithType: Serializer.Deserialize<T>(String)
+  nameWithType.vb: Serializer.Deserialize(Of T)(String)
+- uid: SerializationAsJson.Serializer.Serialize*
+  name: Serialize
+  href: api/SerializationAsJson.Serializer.html#SerializationAsJson_Serializer_Serialize_
+  commentId: Overload:SerializationAsJson.Serializer.Serialize
+  isSpec: "True"
+  fullName: SerializationAsJson.Serializer.Serialize
+  nameWithType: Serializer.Serialize
+- uid: SerializationAsJson.Serializer.Serialize``1(``0)
+  name: Serialize<T>(T)
+  href: api/SerializationAsJson.Serializer.html#SerializationAsJson_Serializer_Serialize__1___0_
+  commentId: M:SerializationAsJson.Serializer.Serialize``1(``0)
+  name.vb: Serialize(Of T)(T)
+  fullName: SerializationAsJson.Serializer.Serialize<T>(T)
+  fullName.vb: SerializationAsJson.Serializer.Serialize(Of T)(T)
+  nameWithType: Serializer.Serialize<T>(T)
+  nameWithType.vb: Serializer.Serialize(Of T)(T)
+- uid: SerializationAsJson.Serializer.Wrapper`1
+  name: Serializer.Wrapper<T>
+  href: api/SerializationAsJson.Serializer.Wrapper-1.html
+  commentId: T:SerializationAsJson.Serializer.Wrapper`1
+  name.vb: Serializer.Wrapper(Of T)
+  fullName: SerializationAsJson.Serializer.Wrapper<T>
+  fullName.vb: SerializationAsJson.Serializer.Wrapper(Of T)
+  nameWithType: Serializer.Wrapper<T>
+  nameWithType.vb: Serializer.Wrapper(Of T)
+- uid: SerializationAsJson.Serializer.Wrapper`1.Value
+  name: Value
+  href: api/SerializationAsJson.Serializer.Wrapper-1.html#SerializationAsJson_Serializer_Wrapper_1_Value
+  commentId: P:SerializationAsJson.Serializer.Wrapper`1.Value
+  fullName: SerializationAsJson.Serializer.Wrapper<T>.Value
+  fullName.vb: SerializationAsJson.Serializer.Wrapper(Of T).Value
+  nameWithType: Serializer.Wrapper<T>.Value
+  nameWithType.vb: Serializer.Wrapper(Of T).Value
+- uid: SerializationAsJson.Serializer.Wrapper`1.Value*
+  name: Value
+  href: api/SerializationAsJson.Serializer.Wrapper-1.html#SerializationAsJson_Serializer_Wrapper_1_Value_
+  commentId: Overload:SerializationAsJson.Serializer.Wrapper`1.Value
+  isSpec: "True"
+  fullName: SerializationAsJson.Serializer.Wrapper<T>.Value
+  fullName.vb: SerializationAsJson.Serializer.Wrapper(Of T).Value
+  nameWithType: Serializer.Wrapper<T>.Value
+  nameWithType.vb: Serializer.Wrapper(Of T).Value
+- uid: SerializationContract
+  name: SerializationContract
+  href: api/SerializationContract.html
+  commentId: N:SerializationContract
+  fullName: SerializationContract
+  nameWithType: SerializationContract
+- uid: SerializationContract.ISerializer
+  name: ISerializer
+  href: api/SerializationContract.ISerializer.html
+  commentId: T:SerializationContract.ISerializer
+  fullName: SerializationContract.ISerializer
+  nameWithType: ISerializer
+- uid: SerializationContract.ISerializer.Deserialize*
+  name: Deserialize
+  href: api/SerializationContract.ISerializer.html#SerializationContract_ISerializer_Deserialize_
+  commentId: Overload:SerializationContract.ISerializer.Deserialize
+  isSpec: "True"
+  fullName: SerializationContract.ISerializer.Deserialize
+  nameWithType: ISerializer.Deserialize
+- uid: SerializationContract.ISerializer.Deserialize``1(System.String)
+  name: Deserialize<T>(String)
+  href: api/SerializationContract.ISerializer.html#SerializationContract_ISerializer_Deserialize__1_System_String_
+  commentId: M:SerializationContract.ISerializer.Deserialize``1(System.String)
+  name.vb: Deserialize(Of T)(String)
+  fullName: SerializationContract.ISerializer.Deserialize<T>(System.String)
+  fullName.vb: SerializationContract.ISerializer.Deserialize(Of T)(System.String)
+  nameWithType: ISerializer.Deserialize<T>(String)
+  nameWithType.vb: ISerializer.Deserialize(Of T)(String)
+- uid: SerializationContract.ISerializer.Serialize*
+  name: Serialize
+  href: api/SerializationContract.ISerializer.html#SerializationContract_ISerializer_Serialize_
+  commentId: Overload:SerializationContract.ISerializer.Serialize
+  isSpec: "True"
+  fullName: SerializationContract.ISerializer.Serialize
+  nameWithType: ISerializer.Serialize
+- uid: SerializationContract.ISerializer.Serialize``1(``0)
+  name: Serialize<T>(T)
+  href: api/SerializationContract.ISerializer.html#SerializationContract_ISerializer_Serialize__1___0_
+  commentId: M:SerializationContract.ISerializer.Serialize``1(``0)
+  name.vb: Serialize(Of T)(T)
+  fullName: SerializationContract.ISerializer.Serialize<T>(T)
+  fullName.vb: SerializationContract.ISerializer.Serialize(Of T)(T)
+  nameWithType: ISerializer.Serialize<T>(T)
+  nameWithType.vb: ISerializer.Serialize(Of T)(T)
+- uid: Tests
+  name: Tests
+  href: api/Tests.html
+  commentId: N:Tests
+  fullName: Tests
+  nameWithType: Tests
+- uid: Tests.AlwaysPassTests
+  name: AlwaysPassTests
+  href: api/Tests.AlwaysPassTests.html
+  commentId: T:Tests.AlwaysPassTests
+  fullName: Tests.AlwaysPassTests
+  nameWithType: AlwaysPassTests
+- uid: Tests.AlwaysPassTests.ShouldAlwaysPassTest
+  name: ShouldAlwaysPassTest()
+  href: api/Tests.AlwaysPassTests.html#Tests_AlwaysPassTests_ShouldAlwaysPassTest
+  commentId: M:Tests.AlwaysPassTests.ShouldAlwaysPassTest
+  fullName: Tests.AlwaysPassTests.ShouldAlwaysPassTest()
+  nameWithType: AlwaysPassTests.ShouldAlwaysPassTest()
+- uid: Tests.AlwaysPassTests.ShouldAlwaysPassTest*
+  name: ShouldAlwaysPassTest
+  href: api/Tests.AlwaysPassTests.html#Tests_AlwaysPassTests_ShouldAlwaysPassTest_
+  commentId: Overload:Tests.AlwaysPassTests.ShouldAlwaysPassTest
+  isSpec: "True"
+  fullName: Tests.AlwaysPassTests.ShouldAlwaysPassTest
+  nameWithType: AlwaysPassTests.ShouldAlwaysPassTest
+- uid: Tests.CompilerTests
+  name: CompilerTests
+  href: api/Tests.CompilerTests.html
+  commentId: T:Tests.CompilerTests
+  fullName: Tests.CompilerTests
+  nameWithType: CompilerTests
+- uid: Tests.CompilerTests.#ctor
+  name: CompilerTests()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests__ctor
+  commentId: M:Tests.CompilerTests.#ctor
+  fullName: Tests.CompilerTests.CompilerTests()
+  nameWithType: CompilerTests.CompilerTests()
+- uid: Tests.CompilerTests.#ctor*
+  name: CompilerTests
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests__ctor_
+  commentId: Overload:Tests.CompilerTests.#ctor
+  isSpec: "True"
+  fullName: Tests.CompilerTests.CompilerTests
+  nameWithType: CompilerTests.CompilerTests
+- uid: Tests.CompilerTests.CompileAndRunActionCommandTest
+  name: CompileAndRunActionCommandTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompileAndRunActionCommandTest
+  commentId: M:Tests.CompilerTests.CompileAndRunActionCommandTest
+  fullName: Tests.CompilerTests.CompileAndRunActionCommandTest()
+  nameWithType: CompilerTests.CompileAndRunActionCommandTest()
+- uid: Tests.CompilerTests.CompileAndRunActionCommandTest*
+  name: CompileAndRunActionCommandTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompileAndRunActionCommandTest_
+  commentId: Overload:Tests.CompilerTests.CompileAndRunActionCommandTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.CompileAndRunActionCommandTest
+  nameWithType: CompilerTests.CompileAndRunActionCommandTest
+- uid: Tests.CompilerTests.CompileAndRunCommandTest
+  name: CompileAndRunCommandTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompileAndRunCommandTest
+  commentId: M:Tests.CompilerTests.CompileAndRunCommandTest
+  fullName: Tests.CompilerTests.CompileAndRunCommandTest()
+  nameWithType: CompilerTests.CompileAndRunCommandTest()
+- uid: Tests.CompilerTests.CompileAndRunCommandTest*
+  name: CompileAndRunCommandTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompileAndRunCommandTest_
+  commentId: Overload:Tests.CompilerTests.CompileAndRunCommandTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.CompileAndRunCommandTest
+  nameWithType: CompilerTests.CompileAndRunCommandTest
+- uid: Tests.CompilerTests.CompileAndRunWithParametersCommandTest
+  name: CompileAndRunWithParametersCommandTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompileAndRunWithParametersCommandTest
+  commentId: M:Tests.CompilerTests.CompileAndRunWithParametersCommandTest
+  fullName: Tests.CompilerTests.CompileAndRunWithParametersCommandTest()
+  nameWithType: CompilerTests.CompileAndRunWithParametersCommandTest()
+- uid: Tests.CompilerTests.CompileAndRunWithParametersCommandTest*
+  name: CompileAndRunWithParametersCommandTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompileAndRunWithParametersCommandTest_
+  commentId: Overload:Tests.CompilerTests.CompileAndRunWithParametersCommandTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.CompileAndRunWithParametersCommandTest
+  nameWithType: CompilerTests.CompileAndRunWithParametersCommandTest
+- uid: Tests.CompilerTests.CompilingCommandFailsTest
+  name: CompilingCommandFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompilingCommandFailsTest
+  commentId: M:Tests.CompilerTests.CompilingCommandFailsTest
+  fullName: Tests.CompilerTests.CompilingCommandFailsTest()
+  nameWithType: CompilerTests.CompilingCommandFailsTest()
+- uid: Tests.CompilerTests.CompilingCommandFailsTest*
+  name: CompilingCommandFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompilingCommandFailsTest_
+  commentId: Overload:Tests.CompilerTests.CompilingCommandFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.CompilingCommandFailsTest
+  nameWithType: CompilerTests.CompilingCommandFailsTest
+- uid: Tests.CompilerTests.CompilingEmptyCommandFailsTest
+  name: CompilingEmptyCommandFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompilingEmptyCommandFailsTest
+  commentId: M:Tests.CompilerTests.CompilingEmptyCommandFailsTest
+  fullName: Tests.CompilerTests.CompilingEmptyCommandFailsTest()
+  nameWithType: CompilerTests.CompilingEmptyCommandFailsTest()
+- uid: Tests.CompilerTests.CompilingEmptyCommandFailsTest*
+  name: CompilingEmptyCommandFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_CompilingEmptyCommandFailsTest_
+  commentId: Overload:Tests.CompilerTests.CompilingEmptyCommandFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.CompilingEmptyCommandFailsTest
+  nameWithType: CompilerTests.CompilingEmptyCommandFailsTest
+- uid: Tests.CompilerTests.RunCommandFailsTest
+  name: RunCommandFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandFailsTest
+  commentId: M:Tests.CompilerTests.RunCommandFailsTest
+  fullName: Tests.CompilerTests.RunCommandFailsTest()
+  nameWithType: CompilerTests.RunCommandFailsTest()
+- uid: Tests.CompilerTests.RunCommandFailsTest*
+  name: RunCommandFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandFailsTest
+  nameWithType: CompilerTests.RunCommandFailsTest
+- uid: Tests.CompilerTests.RunCommandListFailsTest
+  name: RunCommandListFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListFailsTest
+  commentId: M:Tests.CompilerTests.RunCommandListFailsTest
+  fullName: Tests.CompilerTests.RunCommandListFailsTest()
+  nameWithType: CompilerTests.RunCommandListFailsTest()
+- uid: Tests.CompilerTests.RunCommandListFailsTest*
+  name: RunCommandListFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandListFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandListFailsTest
+  nameWithType: CompilerTests.RunCommandListFailsTest
+- uid: Tests.CompilerTests.RunCommandListTest
+  name: RunCommandListTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListTest
+  commentId: M:Tests.CompilerTests.RunCommandListTest
+  fullName: Tests.CompilerTests.RunCommandListTest()
+  nameWithType: CompilerTests.RunCommandListTest()
+- uid: Tests.CompilerTests.RunCommandListTest*
+  name: RunCommandListTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandListTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandListTest
+  nameWithType: CompilerTests.RunCommandListTest
+- uid: Tests.CompilerTests.RunCommandListWithParametersFailsTest
+  name: RunCommandListWithParametersFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListWithParametersFailsTest
+  commentId: M:Tests.CompilerTests.RunCommandListWithParametersFailsTest
+  fullName: Tests.CompilerTests.RunCommandListWithParametersFailsTest()
+  nameWithType: CompilerTests.RunCommandListWithParametersFailsTest()
+- uid: Tests.CompilerTests.RunCommandListWithParametersFailsTest*
+  name: RunCommandListWithParametersFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListWithParametersFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandListWithParametersFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandListWithParametersFailsTest
+  nameWithType: CompilerTests.RunCommandListWithParametersFailsTest
+- uid: Tests.CompilerTests.RunCommandListWithParametersTest
+  name: RunCommandListWithParametersTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListWithParametersTest
+  commentId: M:Tests.CompilerTests.RunCommandListWithParametersTest
+  fullName: Tests.CompilerTests.RunCommandListWithParametersTest()
+  nameWithType: CompilerTests.RunCommandListWithParametersTest()
+- uid: Tests.CompilerTests.RunCommandListWithParametersTest*
+  name: RunCommandListWithParametersTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandListWithParametersTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandListWithParametersTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandListWithParametersTest
+  nameWithType: CompilerTests.RunCommandListWithParametersTest
+- uid: Tests.CompilerTests.RunCommandTest
+  name: RunCommandTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandTest
+  commentId: M:Tests.CompilerTests.RunCommandTest
+  fullName: Tests.CompilerTests.RunCommandTest()
+  nameWithType: CompilerTests.RunCommandTest()
+- uid: Tests.CompilerTests.RunCommandTest*
+  name: RunCommandTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandTest
+  nameWithType: CompilerTests.RunCommandTest
+- uid: Tests.CompilerTests.RunCommandWithParametersFailsTest
+  name: RunCommandWithParametersFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandWithParametersFailsTest
+  commentId: M:Tests.CompilerTests.RunCommandWithParametersFailsTest
+  fullName: Tests.CompilerTests.RunCommandWithParametersFailsTest()
+  nameWithType: CompilerTests.RunCommandWithParametersFailsTest()
+- uid: Tests.CompilerTests.RunCommandWithParametersFailsTest*
+  name: RunCommandWithParametersFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandWithParametersFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandWithParametersFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandWithParametersFailsTest
+  nameWithType: CompilerTests.RunCommandWithParametersFailsTest
+- uid: Tests.CompilerTests.RunCommandWithParametersTest
+  name: RunCommandWithParametersTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandWithParametersTest
+  commentId: M:Tests.CompilerTests.RunCommandWithParametersTest
+  fullName: Tests.CompilerTests.RunCommandWithParametersTest()
+  nameWithType: CompilerTests.RunCommandWithParametersTest()
+- uid: Tests.CompilerTests.RunCommandWithParametersTest*
+  name: RunCommandWithParametersTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunCommandWithParametersTest_
+  commentId: Overload:Tests.CompilerTests.RunCommandWithParametersTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunCommandWithParametersTest
+  nameWithType: CompilerTests.RunCommandWithParametersTest
+- uid: Tests.CompilerTests.RunEmptyCommandFailsTest
+  name: RunEmptyCommandFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandFailsTest
+  commentId: M:Tests.CompilerTests.RunEmptyCommandFailsTest
+  fullName: Tests.CompilerTests.RunEmptyCommandFailsTest()
+  nameWithType: CompilerTests.RunEmptyCommandFailsTest()
+- uid: Tests.CompilerTests.RunEmptyCommandFailsTest*
+  name: RunEmptyCommandFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunEmptyCommandFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunEmptyCommandFailsTest
+  nameWithType: CompilerTests.RunEmptyCommandFailsTest
+- uid: Tests.CompilerTests.RunEmptyCommandListFailsTest
+  name: RunEmptyCommandListFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandListFailsTest
+  commentId: M:Tests.CompilerTests.RunEmptyCommandListFailsTest
+  fullName: Tests.CompilerTests.RunEmptyCommandListFailsTest()
+  nameWithType: CompilerTests.RunEmptyCommandListFailsTest()
+- uid: Tests.CompilerTests.RunEmptyCommandListFailsTest*
+  name: RunEmptyCommandListFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandListFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunEmptyCommandListFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunEmptyCommandListFailsTest
+  nameWithType: CompilerTests.RunEmptyCommandListFailsTest
+- uid: Tests.CompilerTests.RunEmptyCommandListWithParametersFailsTest
+  name: RunEmptyCommandListWithParametersFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandListWithParametersFailsTest
+  commentId: M:Tests.CompilerTests.RunEmptyCommandListWithParametersFailsTest
+  fullName: Tests.CompilerTests.RunEmptyCommandListWithParametersFailsTest()
+  nameWithType: CompilerTests.RunEmptyCommandListWithParametersFailsTest()
+- uid: Tests.CompilerTests.RunEmptyCommandListWithParametersFailsTest*
+  name: RunEmptyCommandListWithParametersFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandListWithParametersFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunEmptyCommandListWithParametersFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunEmptyCommandListWithParametersFailsTest
+  nameWithType: CompilerTests.RunEmptyCommandListWithParametersFailsTest
+- uid: Tests.CompilerTests.RunEmptyCommandWithParametersFailsTest
+  name: RunEmptyCommandWithParametersFailsTest()
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandWithParametersFailsTest
+  commentId: M:Tests.CompilerTests.RunEmptyCommandWithParametersFailsTest
+  fullName: Tests.CompilerTests.RunEmptyCommandWithParametersFailsTest()
+  nameWithType: CompilerTests.RunEmptyCommandWithParametersFailsTest()
+- uid: Tests.CompilerTests.RunEmptyCommandWithParametersFailsTest*
+  name: RunEmptyCommandWithParametersFailsTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunEmptyCommandWithParametersFailsTest_
+  commentId: Overload:Tests.CompilerTests.RunEmptyCommandWithParametersFailsTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunEmptyCommandWithParametersFailsTest
+  nameWithType: CompilerTests.RunEmptyCommandWithParametersFailsTest
+- uid: Tests.CompilerTests.RunPreCompiledScriptWithParametersCommandTest(System.Int32,System.Int32)
+  name: RunPreCompiledScriptWithParametersCommandTest(Int32, Int32)
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunPreCompiledScriptWithParametersCommandTest_System_Int32_System_Int32_
+  commentId: M:Tests.CompilerTests.RunPreCompiledScriptWithParametersCommandTest(System.Int32,System.Int32)
+  fullName: Tests.CompilerTests.RunPreCompiledScriptWithParametersCommandTest(System.Int32, System.Int32)
+  nameWithType: CompilerTests.RunPreCompiledScriptWithParametersCommandTest(Int32, Int32)
+- uid: Tests.CompilerTests.RunPreCompiledScriptWithParametersCommandTest*
+  name: RunPreCompiledScriptWithParametersCommandTest
+  href: api/Tests.CompilerTests.html#Tests_CompilerTests_RunPreCompiledScriptWithParametersCommandTest_
+  commentId: Overload:Tests.CompilerTests.RunPreCompiledScriptWithParametersCommandTest
+  isSpec: "True"
+  fullName: Tests.CompilerTests.RunPreCompiledScriptWithParametersCommandTest
+  nameWithType: CompilerTests.RunPreCompiledScriptWithParametersCommandTest
+- uid: Tests.CompilerTests.TestContext
+  name: CompilerTests.TestContext
+  href: api/Tests.CompilerTests.TestContext.html
+  commentId: T:Tests.CompilerTests.TestContext
+  fullName: Tests.CompilerTests.TestContext
+  nameWithType: CompilerTests.TestContext
+- uid: Tests.CompilerTests.TestContext.ActionResult
+  name: ActionResult
+  href: api/Tests.CompilerTests.TestContext.html#Tests_CompilerTests_TestContext_ActionResult
+  commentId: P:Tests.CompilerTests.TestContext.ActionResult
+  fullName: Tests.CompilerTests.TestContext.ActionResult
+  nameWithType: CompilerTests.TestContext.ActionResult
+- uid: Tests.CompilerTests.TestContext.ActionResult*
+  name: ActionResult
+  href: api/Tests.CompilerTests.TestContext.html#Tests_CompilerTests_TestContext_ActionResult_
+  commentId: Overload:Tests.CompilerTests.TestContext.ActionResult
+  isSpec: "True"
+  fullName: Tests.CompilerTests.TestContext.ActionResult
+  nameWithType: CompilerTests.TestContext.ActionResult
+- uid: Tests.CompilerTests.TestContext.Count
+  name: Count
+  href: api/Tests.CompilerTests.TestContext.html#Tests_CompilerTests_TestContext_Count
+  commentId: P:Tests.CompilerTests.TestContext.Count
+  fullName: Tests.CompilerTests.TestContext.Count
+  nameWithType: CompilerTests.TestContext.Count
+- uid: Tests.CompilerTests.TestContext.Count*
+  name: Count
+  href: api/Tests.CompilerTests.TestContext.html#Tests_CompilerTests_TestContext_Count_
+  commentId: Overload:Tests.CompilerTests.TestContext.Count
+  isSpec: "True"
+  fullName: Tests.CompilerTests.TestContext.Count
+  nameWithType: CompilerTests.TestContext.Count
+- uid: Tests.GoalSeekTests
+  name: GoalSeekTests
+  href: api/Tests.GoalSeekTests.html
+  commentId: T:Tests.GoalSeekTests
+  fullName: Tests.GoalSeekTests
+  nameWithType: GoalSeekTests
+- uid: Tests.GoalSeekTests.GoalSeekContext
+  name: GoalSeekTests.GoalSeekContext
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html
+  commentId: T:Tests.GoalSeekTests.GoalSeekContext
+  fullName: Tests.GoalSeekTests.GoalSeekContext
+  nameWithType: GoalSeekTests.GoalSeekContext
+- uid: Tests.GoalSeekTests.GoalSeekContext.#ctor(System.Decimal,System.Decimal)
+  name: GoalSeekContext(Decimal, Decimal)
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext__ctor_System_Decimal_System_Decimal_
+  commentId: M:Tests.GoalSeekTests.GoalSeekContext.#ctor(System.Decimal,System.Decimal)
+  fullName: Tests.GoalSeekTests.GoalSeekContext.GoalSeekContext(System.Decimal, System.Decimal)
+  nameWithType: GoalSeekTests.GoalSeekContext.GoalSeekContext(Decimal, Decimal)
+- uid: Tests.GoalSeekTests.GoalSeekContext.#ctor*
+  name: GoalSeekContext
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext__ctor_
+  commentId: Overload:Tests.GoalSeekTests.GoalSeekContext.#ctor
+  isSpec: "True"
+  fullName: Tests.GoalSeekTests.GoalSeekContext.GoalSeekContext
+  nameWithType: GoalSeekTests.GoalSeekContext.GoalSeekContext
+- uid: Tests.GoalSeekTests.GoalSeekContext.DecimalToManipulate
+  name: DecimalToManipulate
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext_DecimalToManipulate
+  commentId: P:Tests.GoalSeekTests.GoalSeekContext.DecimalToManipulate
+  fullName: Tests.GoalSeekTests.GoalSeekContext.DecimalToManipulate
+  nameWithType: GoalSeekTests.GoalSeekContext.DecimalToManipulate
+- uid: Tests.GoalSeekTests.GoalSeekContext.DecimalToManipulate*
+  name: DecimalToManipulate
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext_DecimalToManipulate_
+  commentId: Overload:Tests.GoalSeekTests.GoalSeekContext.DecimalToManipulate
+  isSpec: "True"
+  fullName: Tests.GoalSeekTests.GoalSeekContext.DecimalToManipulate
+  nameWithType: GoalSeekTests.GoalSeekContext.DecimalToManipulate
+- uid: Tests.GoalSeekTests.GoalSeekContext.TargetDecimal
+  name: TargetDecimal
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext_TargetDecimal
+  commentId: P:Tests.GoalSeekTests.GoalSeekContext.TargetDecimal
+  fullName: Tests.GoalSeekTests.GoalSeekContext.TargetDecimal
+  nameWithType: GoalSeekTests.GoalSeekContext.TargetDecimal
+- uid: Tests.GoalSeekTests.GoalSeekContext.TargetDecimal*
+  name: TargetDecimal
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext_TargetDecimal_
+  commentId: Overload:Tests.GoalSeekTests.GoalSeekContext.TargetDecimal
+  isSpec: "True"
+  fullName: Tests.GoalSeekTests.GoalSeekContext.TargetDecimal
+  nameWithType: GoalSeekTests.GoalSeekContext.TargetDecimal
+- uid: Tests.GoalSeekTests.GoalSeekContext.Tax
+  name: Tax
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext_Tax
+  commentId: P:Tests.GoalSeekTests.GoalSeekContext.Tax
+  fullName: Tests.GoalSeekTests.GoalSeekContext.Tax
+  nameWithType: GoalSeekTests.GoalSeekContext.Tax
+- uid: Tests.GoalSeekTests.GoalSeekContext.Tax*
+  name: Tax
+  href: api/Tests.GoalSeekTests.GoalSeekContext.html#Tests_GoalSeekTests_GoalSeekContext_Tax_
+  commentId: Overload:Tests.GoalSeekTests.GoalSeekContext.Tax
+  isSpec: "True"
+  fullName: Tests.GoalSeekTests.GoalSeekContext.Tax
+  nameWithType: GoalSeekTests.GoalSeekContext.Tax
+- uid: Tests.GoalSeekTests.TestGoalSeek(System.Decimal)
+  name: TestGoalSeek(Decimal)
+  href: api/Tests.GoalSeekTests.html#Tests_GoalSeekTests_TestGoalSeek_System_Decimal_
+  commentId: M:Tests.GoalSeekTests.TestGoalSeek(System.Decimal)
+  fullName: Tests.GoalSeekTests.TestGoalSeek(System.Decimal)
+  nameWithType: GoalSeekTests.TestGoalSeek(Decimal)
+- uid: Tests.GoalSeekTests.TestGoalSeek*
+  name: TestGoalSeek
+  href: api/Tests.GoalSeekTests.html#Tests_GoalSeekTests_TestGoalSeek_
+  commentId: Overload:Tests.GoalSeekTests.TestGoalSeek
+  isSpec: "True"
+  fullName: Tests.GoalSeekTests.TestGoalSeek
+  nameWithType: GoalSeekTests.TestGoalSeek
+- uid: Tests.Helper
+  name: Tests.Helper
+  href: api/Tests.Helper.html
+  commentId: N:Tests.Helper
+  fullName: Tests.Helper
+  nameWithType: Tests.Helper
+- uid: Tests.Helper.ScriptHelper
+  name: ScriptHelper
+  href: api/Tests.Helper.ScriptHelper.html
+  commentId: T:Tests.Helper.ScriptHelper
+  fullName: Tests.Helper.ScriptHelper
+  nameWithType: ScriptHelper
+- uid: Tests.Helper.ScriptHelper.GetBranchScript*
+  name: GetBranchScript
+  href: api/Tests.Helper.ScriptHelper.html#Tests_Helper_ScriptHelper_GetBranchScript_
+  commentId: Overload:Tests.Helper.ScriptHelper.GetBranchScript
+  isSpec: "True"
+  fullName: Tests.Helper.ScriptHelper.GetBranchScript
+  nameWithType: ScriptHelper.GetBranchScript
+- uid: Tests.Helper.ScriptHelper.GetBranchScript``1(System.String)
+  name: GetBranchScript<TContext>(String)
+  href: api/Tests.Helper.ScriptHelper.html#Tests_Helper_ScriptHelper_GetBranchScript__1_System_String_
+  commentId: M:Tests.Helper.ScriptHelper.GetBranchScript``1(System.String)
+  name.vb: GetBranchScript(Of TContext)(String)
+  fullName: Tests.Helper.ScriptHelper.GetBranchScript<TContext>(System.String)
+  fullName.vb: Tests.Helper.ScriptHelper.GetBranchScript(Of TContext)(System.String)
+  nameWithType: ScriptHelper.GetBranchScript<TContext>(String)
+  nameWithType.vb: ScriptHelper.GetBranchScript(Of TContext)(String)
+- uid: Tests.Helper.ScriptHelper.GetScript*
+  name: GetScript
+  href: api/Tests.Helper.ScriptHelper.html#Tests_Helper_ScriptHelper_GetScript_
+  commentId: Overload:Tests.Helper.ScriptHelper.GetScript
+  isSpec: "True"
+  fullName: Tests.Helper.ScriptHelper.GetScript
+  nameWithType: ScriptHelper.GetScript
+- uid: Tests.Helper.ScriptHelper.GetScript``1(System.String)
+  name: GetScript<TContext>(String)
+  href: api/Tests.Helper.ScriptHelper.html#Tests_Helper_ScriptHelper_GetScript__1_System_String_
+  commentId: M:Tests.Helper.ScriptHelper.GetScript``1(System.String)
+  name.vb: GetScript(Of TContext)(String)
+  fullName: Tests.Helper.ScriptHelper.GetScript<TContext>(System.String)
+  fullName.vb: Tests.Helper.ScriptHelper.GetScript(Of TContext)(System.String)
+  nameWithType: ScriptHelper.GetScript<TContext>(String)
+  nameWithType.vb: ScriptHelper.GetScript(Of TContext)(String)
+- uid: Tests.TreeTests
+  name: TreeTests
+  href: api/Tests.TreeTests.html
+  commentId: T:Tests.TreeTests
+  fullName: Tests.TreeTests
+  nameWithType: TreeTests
+- uid: Tests.TreeTests.BranchWithFalseFlowTest
+  name: BranchWithFalseFlowTest()
+  href: api/Tests.TreeTests.html#Tests_TreeTests_BranchWithFalseFlowTest
+  commentId: M:Tests.TreeTests.BranchWithFalseFlowTest
+  fullName: Tests.TreeTests.BranchWithFalseFlowTest()
+  nameWithType: TreeTests.BranchWithFalseFlowTest()
+- uid: Tests.TreeTests.BranchWithFalseFlowTest*
+  name: BranchWithFalseFlowTest
+  href: api/Tests.TreeTests.html#Tests_TreeTests_BranchWithFalseFlowTest_
+  commentId: Overload:Tests.TreeTests.BranchWithFalseFlowTest
+  isSpec: "True"
+  fullName: Tests.TreeTests.BranchWithFalseFlowTest
+  nameWithType: TreeTests.BranchWithFalseFlowTest
+- uid: Tests.TreeTests.BranchWithTrueFlowTest
+  name: BranchWithTrueFlowTest()
+  href: api/Tests.TreeTests.html#Tests_TreeTests_BranchWithTrueFlowTest
+  commentId: M:Tests.TreeTests.BranchWithTrueFlowTest
+  fullName: Tests.TreeTests.BranchWithTrueFlowTest()
+  nameWithType: TreeTests.BranchWithTrueFlowTest()
+- uid: Tests.TreeTests.BranchWithTrueFlowTest*
+  name: BranchWithTrueFlowTest
+  href: api/Tests.TreeTests.html#Tests_TreeTests_BranchWithTrueFlowTest_
+  commentId: Overload:Tests.TreeTests.BranchWithTrueFlowTest
+  isSpec: "True"
+  fullName: Tests.TreeTests.BranchWithTrueFlowTest
+  nameWithType: TreeTests.BranchWithTrueFlowTest
+- uid: Tests.TreeTests.MultipleSequentialSegmentsTest
+  name: MultipleSequentialSegmentsTest()
+  href: api/Tests.TreeTests.html#Tests_TreeTests_MultipleSequentialSegmentsTest
+  commentId: M:Tests.TreeTests.MultipleSequentialSegmentsTest
+  fullName: Tests.TreeTests.MultipleSequentialSegmentsTest()
+  nameWithType: TreeTests.MultipleSequentialSegmentsTest()
+- uid: Tests.TreeTests.MultipleSequentialSegmentsTest*
+  name: MultipleSequentialSegmentsTest
+  href: api/Tests.TreeTests.html#Tests_TreeTests_MultipleSequentialSegmentsTest_
+  commentId: Overload:Tests.TreeTests.MultipleSequentialSegmentsTest
+  isSpec: "True"
+  fullName: Tests.TreeTests.MultipleSequentialSegmentsTest
+  nameWithType: TreeTests.MultipleSequentialSegmentsTest
+- uid: Tests.TreeTests.RootTest
+  name: RootTest()
+  href: api/Tests.TreeTests.html#Tests_TreeTests_RootTest
+  commentId: M:Tests.TreeTests.RootTest
+  fullName: Tests.TreeTests.RootTest()
+  nameWithType: TreeTests.RootTest()
+- uid: Tests.TreeTests.RootTest*
+  name: RootTest
+  href: api/Tests.TreeTests.html#Tests_TreeTests_RootTest_
+  commentId: Overload:Tests.TreeTests.RootTest
+  isSpec: "True"
+  fullName: Tests.TreeTests.RootTest
+  nameWithType: TreeTests.RootTest
+- uid: Tests.TreeTests.TreeTestContext
+  name: TreeTests.TreeTestContext
+  href: api/Tests.TreeTests.TreeTestContext.html
+  commentId: T:Tests.TreeTests.TreeTestContext
+  fullName: Tests.TreeTests.TreeTestContext
+  nameWithType: TreeTests.TreeTestContext
+- uid: Tests.TreeTests.TreeTestContext.#ctor(System.Decimal,System.Decimal)
+  name: TreeTestContext(Decimal, Decimal)
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext__ctor_System_Decimal_System_Decimal_
+  commentId: M:Tests.TreeTests.TreeTestContext.#ctor(System.Decimal,System.Decimal)
+  fullName: Tests.TreeTests.TreeTestContext.TreeTestContext(System.Decimal, System.Decimal)
+  nameWithType: TreeTests.TreeTestContext.TreeTestContext(Decimal, Decimal)
+- uid: Tests.TreeTests.TreeTestContext.#ctor*
+  name: TreeTestContext
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext__ctor_
+  commentId: Overload:Tests.TreeTests.TreeTestContext.#ctor
+  isSpec: "True"
+  fullName: Tests.TreeTests.TreeTestContext.TreeTestContext
+  nameWithType: TreeTests.TreeTestContext.TreeTestContext
+- uid: Tests.TreeTests.TreeTestContext.X
+  name: X
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext_X
+  commentId: P:Tests.TreeTests.TreeTestContext.X
+  fullName: Tests.TreeTests.TreeTestContext.X
+  nameWithType: TreeTests.TreeTestContext.X
+- uid: Tests.TreeTests.TreeTestContext.X*
+  name: X
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext_X_
+  commentId: Overload:Tests.TreeTests.TreeTestContext.X
+  isSpec: "True"
+  fullName: Tests.TreeTests.TreeTestContext.X
+  nameWithType: TreeTests.TreeTestContext.X
+- uid: Tests.TreeTests.TreeTestContext.Y
+  name: Y
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext_Y
+  commentId: P:Tests.TreeTests.TreeTestContext.Y
+  fullName: Tests.TreeTests.TreeTestContext.Y
+  nameWithType: TreeTests.TreeTestContext.Y
+- uid: Tests.TreeTests.TreeTestContext.Y*
+  name: Y
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext_Y_
+  commentId: Overload:Tests.TreeTests.TreeTestContext.Y
+  isSpec: "True"
+  fullName: Tests.TreeTests.TreeTestContext.Y
+  nameWithType: TreeTests.TreeTestContext.Y
+- uid: Tests.TreeTests.TreeTestContext.Z
+  name: Z
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext_Z
+  commentId: P:Tests.TreeTests.TreeTestContext.Z
+  fullName: Tests.TreeTests.TreeTestContext.Z
+  nameWithType: TreeTests.TreeTestContext.Z
+- uid: Tests.TreeTests.TreeTestContext.Z*
+  name: Z
+  href: api/Tests.TreeTests.TreeTestContext.html#Tests_TreeTests_TreeTestContext_Z_
+  commentId: Overload:Tests.TreeTests.TreeTestContext.Z
+  isSpec: "True"
+  fullName: Tests.TreeTests.TreeTestContext.Z
+  nameWithType: TreeTests.TreeTestContext.Z
+- uid: TreeContract
+  name: TreeContract
+  href: api/TreeContract.html
+  commentId: N:TreeContract
+  fullName: TreeContract
+  nameWithType: TreeContract
+- uid: TreeContract.IBranch
+  name: IBranch
+  href: api/TreeContract.IBranch.html
+  commentId: T:TreeContract.IBranch
+  fullName: TreeContract.IBranch
+  nameWithType: IBranch
+- uid: TreeContract.ISection
+  name: ISection
+  href: api/TreeContract.ISection.html
+  commentId: T:TreeContract.ISection
+  fullName: TreeContract.ISection
+  nameWithType: ISection
+- uid: TreeContract.ISection.GetNextSection(System.Boolean)
+  name: GetNextSection(Boolean)
+  href: api/TreeContract.ISection.html#TreeContract_ISection_GetNextSection_System_Boolean_
+  commentId: M:TreeContract.ISection.GetNextSection(System.Boolean)
+  fullName: TreeContract.ISection.GetNextSection(System.Boolean)
+  nameWithType: ISection.GetNextSection(Boolean)
+- uid: TreeContract.ISection.GetNextSection*
+  name: GetNextSection
+  href: api/TreeContract.ISection.html#TreeContract_ISection_GetNextSection_
+  commentId: Overload:TreeContract.ISection.GetNextSection
+  isSpec: "True"
+  fullName: TreeContract.ISection.GetNextSection
+  nameWithType: ISection.GetNextSection
+- uid: TreeContract.ISection.GetScript
+  name: GetScript()
+  href: api/TreeContract.ISection.html#TreeContract_ISection_GetScript
+  commentId: M:TreeContract.ISection.GetScript
+  fullName: TreeContract.ISection.GetScript()
+  nameWithType: ISection.GetScript()
+- uid: TreeContract.ISection.GetScript*
+  name: GetScript
+  href: api/TreeContract.ISection.html#TreeContract_ISection_GetScript_
+  commentId: Overload:TreeContract.ISection.GetScript
+  isSpec: "True"
+  fullName: TreeContract.ISection.GetScript
+  nameWithType: ISection.GetScript
+- uid: TreeContract.ISection.IsBranch
+  name: IsBranch()
+  href: api/TreeContract.ISection.html#TreeContract_ISection_IsBranch
+  commentId: M:TreeContract.ISection.IsBranch
+  fullName: TreeContract.ISection.IsBranch()
+  nameWithType: ISection.IsBranch()
+- uid: TreeContract.ISection.IsBranch*
+  name: IsBranch
+  href: api/TreeContract.ISection.html#TreeContract_ISection_IsBranch_
+  commentId: Overload:TreeContract.ISection.IsBranch
+  isSpec: "True"
+  fullName: TreeContract.ISection.IsBranch
+  nameWithType: ISection.IsBranch
+- uid: TreeContract.ISection.IsLeaf
+  name: IsLeaf()
+  href: api/TreeContract.ISection.html#TreeContract_ISection_IsLeaf
+  commentId: M:TreeContract.ISection.IsLeaf
+  fullName: TreeContract.ISection.IsLeaf()
+  nameWithType: ISection.IsLeaf()
+- uid: TreeContract.ISection.IsLeaf*
+  name: IsLeaf
+  href: api/TreeContract.ISection.html#TreeContract_ISection_IsLeaf_
+  commentId: Overload:TreeContract.ISection.IsLeaf
+  isSpec: "True"
+  fullName: TreeContract.ISection.IsLeaf
+  nameWithType: ISection.IsLeaf
+- uid: TreeContract.ISection.IsTrunk
+  name: IsTrunk()
+  href: api/TreeContract.ISection.html#TreeContract_ISection_IsTrunk
+  commentId: M:TreeContract.ISection.IsTrunk
+  fullName: TreeContract.ISection.IsTrunk()
+  nameWithType: ISection.IsTrunk()
+- uid: TreeContract.ISection.IsTrunk*
+  name: IsTrunk
+  href: api/TreeContract.ISection.html#TreeContract_ISection_IsTrunk_
+  commentId: Overload:TreeContract.ISection.IsTrunk
+  isSpec: "True"
+  fullName: TreeContract.ISection.IsTrunk
+  nameWithType: ISection.IsTrunk
+- uid: TreeContract.ITree`1
+  name: ITree<TContext>
+  href: api/TreeContract.ITree-1.html
+  commentId: T:TreeContract.ITree`1
+  name.vb: ITree(Of TContext)
+  fullName: TreeContract.ITree<TContext>
+  fullName.vb: TreeContract.ITree(Of TContext)
+  nameWithType: ITree<TContext>
+  nameWithType.vb: ITree(Of TContext)
+- uid: TreeContract.ITree`1.Run(`0)
+  name: Run(TContext)
+  href: api/TreeContract.ITree-1.html#TreeContract_ITree_1_Run__0_
+  commentId: M:TreeContract.ITree`1.Run(`0)
+  fullName: TreeContract.ITree<TContext>.Run(TContext)
+  fullName.vb: TreeContract.ITree(Of TContext).Run(TContext)
+  nameWithType: ITree<TContext>.Run(TContext)
+  nameWithType.vb: ITree(Of TContext).Run(TContext)
+- uid: TreeContract.ITree`1.Run*
+  name: Run
+  href: api/TreeContract.ITree-1.html#TreeContract_ITree_1_Run_
+  commentId: Overload:TreeContract.ITree`1.Run
+  isSpec: "True"
+  fullName: TreeContract.ITree<TContext>.Run
+  fullName.vb: TreeContract.ITree(Of TContext).Run
+  nameWithType: ITree<TContext>.Run
+  nameWithType.vb: ITree(Of TContext).Run
+- uid: TreeContract.ITrunk
+  name: ITrunk
+  href: api/TreeContract.ITrunk.html
+  commentId: T:TreeContract.ITrunk
+  fullName: TreeContract.ITrunk
+  nameWithType: ITrunk
+- uid: TreeContract.ITrunk.AddBranch(Script{System.Boolean},TreeContract.ITrunk,TreeContract.ITrunk)
+  name: AddBranch(Script<Boolean>, ITrunk, ITrunk)
+  href: api/TreeContract.ITrunk.html#TreeContract_ITrunk_AddBranch_Script_System_Boolean__TreeContract_ITrunk_TreeContract_ITrunk_
+  commentId: M:TreeContract.ITrunk.AddBranch(Script{System.Boolean},TreeContract.ITrunk,TreeContract.ITrunk)
+  name.vb: AddBranch(Script(Of Boolean), ITrunk, ITrunk)
+  fullName: TreeContract.ITrunk.AddBranch(Script<System.Boolean>, TreeContract.ITrunk, TreeContract.ITrunk)
+  fullName.vb: TreeContract.ITrunk.AddBranch(Script(Of System.Boolean), TreeContract.ITrunk, TreeContract.ITrunk)
+  nameWithType: ITrunk.AddBranch(Script<Boolean>, ITrunk, ITrunk)
+  nameWithType.vb: ITrunk.AddBranch(Script(Of Boolean), ITrunk, ITrunk)
+- uid: TreeContract.ITrunk.AddBranch*
+  name: AddBranch
+  href: api/TreeContract.ITrunk.html#TreeContract_ITrunk_AddBranch_
+  commentId: Overload:TreeContract.ITrunk.AddBranch
+  isSpec: "True"
+  fullName: TreeContract.ITrunk.AddBranch
+  nameWithType: ITrunk.AddBranch
+- uid: TreeContract.ITrunk.AddSection(Script)
+  name: AddSection(Script)
+  href: api/TreeContract.ITrunk.html#TreeContract_ITrunk_AddSection_Script_
+  commentId: M:TreeContract.ITrunk.AddSection(Script)
+  fullName: TreeContract.ITrunk.AddSection(Script)
+  nameWithType: ITrunk.AddSection(Script)
+- uid: TreeContract.ITrunk.AddSection*
+  name: AddSection
+  href: api/TreeContract.ITrunk.html#TreeContract_ITrunk_AddSection_
+  commentId: Overload:TreeContract.ITrunk.AddSection
+  isSpec: "True"
+  fullName: TreeContract.ITrunk.AddSection
+  nameWithType: ITrunk.AddSection
+- uid: TreeImplementation
+  name: TreeImplementation
+  href: api/TreeImplementation.html
+  commentId: N:TreeImplementation
+  fullName: TreeImplementation
+  nameWithType: TreeImplementation
+- uid: TreeImplementation.Branch
+  name: Branch
+  href: api/TreeImplementation.Branch.html
+  commentId: T:TreeImplementation.Branch
+  fullName: TreeImplementation.Branch
+  nameWithType: Branch
+- uid: TreeImplementation.Branch.#ctor(Script{System.Boolean},TreeContract.ISection,TreeContract.ISection)
+  name: Branch(Script<Boolean>, ISection, ISection)
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch__ctor_Script_System_Boolean__TreeContract_ISection_TreeContract_ISection_
+  commentId: M:TreeImplementation.Branch.#ctor(Script{System.Boolean},TreeContract.ISection,TreeContract.ISection)
+  name.vb: Branch(Script(Of Boolean), ISection, ISection)
+  fullName: TreeImplementation.Branch.Branch(Script<System.Boolean>, TreeContract.ISection, TreeContract.ISection)
+  fullName.vb: TreeImplementation.Branch.Branch(Script(Of System.Boolean), TreeContract.ISection, TreeContract.ISection)
+  nameWithType: Branch.Branch(Script<Boolean>, ISection, ISection)
+  nameWithType.vb: Branch.Branch(Script(Of Boolean), ISection, ISection)
+- uid: TreeImplementation.Branch.#ctor*
+  name: Branch
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch__ctor_
+  commentId: Overload:TreeImplementation.Branch.#ctor
+  isSpec: "True"
+  fullName: TreeImplementation.Branch.Branch
+  nameWithType: Branch.Branch
+- uid: TreeImplementation.Branch.GetNextSection(System.Boolean)
+  name: GetNextSection(Boolean)
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_GetNextSection_System_Boolean_
+  commentId: M:TreeImplementation.Branch.GetNextSection(System.Boolean)
+  fullName: TreeImplementation.Branch.GetNextSection(System.Boolean)
+  nameWithType: Branch.GetNextSection(Boolean)
+- uid: TreeImplementation.Branch.GetNextSection*
+  name: GetNextSection
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_GetNextSection_
+  commentId: Overload:TreeImplementation.Branch.GetNextSection
+  isSpec: "True"
+  fullName: TreeImplementation.Branch.GetNextSection
+  nameWithType: Branch.GetNextSection
+- uid: TreeImplementation.Branch.GetScript
+  name: GetScript()
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_GetScript
+  commentId: M:TreeImplementation.Branch.GetScript
+  fullName: TreeImplementation.Branch.GetScript()
+  nameWithType: Branch.GetScript()
+- uid: TreeImplementation.Branch.GetScript*
+  name: GetScript
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_GetScript_
+  commentId: Overload:TreeImplementation.Branch.GetScript
+  isSpec: "True"
+  fullName: TreeImplementation.Branch.GetScript
+  nameWithType: Branch.GetScript
+- uid: TreeImplementation.Branch.IsBranch
+  name: IsBranch()
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_IsBranch
+  commentId: M:TreeImplementation.Branch.IsBranch
+  fullName: TreeImplementation.Branch.IsBranch()
+  nameWithType: Branch.IsBranch()
+- uid: TreeImplementation.Branch.IsBranch*
+  name: IsBranch
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_IsBranch_
+  commentId: Overload:TreeImplementation.Branch.IsBranch
+  isSpec: "True"
+  fullName: TreeImplementation.Branch.IsBranch
+  nameWithType: Branch.IsBranch
+- uid: TreeImplementation.Branch.IsLeaf
+  name: IsLeaf()
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_IsLeaf
+  commentId: M:TreeImplementation.Branch.IsLeaf
+  fullName: TreeImplementation.Branch.IsLeaf()
+  nameWithType: Branch.IsLeaf()
+- uid: TreeImplementation.Branch.IsLeaf*
+  name: IsLeaf
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_IsLeaf_
+  commentId: Overload:TreeImplementation.Branch.IsLeaf
+  isSpec: "True"
+  fullName: TreeImplementation.Branch.IsLeaf
+  nameWithType: Branch.IsLeaf
+- uid: TreeImplementation.Branch.IsTrunk
+  name: IsTrunk()
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_IsTrunk
+  commentId: M:TreeImplementation.Branch.IsTrunk
+  fullName: TreeImplementation.Branch.IsTrunk()
+  nameWithType: Branch.IsTrunk()
+- uid: TreeImplementation.Branch.IsTrunk*
+  name: IsTrunk
+  href: api/TreeImplementation.Branch.html#TreeImplementation_Branch_IsTrunk_
+  commentId: Overload:TreeImplementation.Branch.IsTrunk
+  isSpec: "True"
+  fullName: TreeImplementation.Branch.IsTrunk
+  nameWithType: Branch.IsTrunk
+- uid: TreeImplementation.Tree`1
+  name: Tree<TContext>
+  href: api/TreeImplementation.Tree-1.html
+  commentId: T:TreeImplementation.Tree`1
+  name.vb: Tree(Of TContext)
+  fullName: TreeImplementation.Tree<TContext>
+  fullName.vb: TreeImplementation.Tree(Of TContext)
+  nameWithType: Tree<TContext>
+  nameWithType.vb: Tree(Of TContext)
+- uid: TreeImplementation.Tree`1.#ctor(TreeContract.ISection,ScriptContract.IProducer{`0})
+  name: Tree(ISection, IProducer<TContext>)
+  href: api/TreeImplementation.Tree-1.html#TreeImplementation_Tree_1__ctor_TreeContract_ISection_ScriptContract_IProducer__0__
+  commentId: M:TreeImplementation.Tree`1.#ctor(TreeContract.ISection,ScriptContract.IProducer{`0})
+  name.vb: Tree(ISection, IProducer(Of TContext))
+  fullName: TreeImplementation.Tree<TContext>.Tree(TreeContract.ISection, ScriptContract.IProducer<TContext>)
+  fullName.vb: TreeImplementation.Tree(Of TContext).Tree(TreeContract.ISection, ScriptContract.IProducer(Of TContext))
+  nameWithType: Tree<TContext>.Tree(ISection, IProducer<TContext>)
+  nameWithType.vb: Tree(Of TContext).Tree(ISection, IProducer(Of TContext))
+- uid: TreeImplementation.Tree`1.#ctor*
+  name: Tree
+  href: api/TreeImplementation.Tree-1.html#TreeImplementation_Tree_1__ctor_
+  commentId: Overload:TreeImplementation.Tree`1.#ctor
+  isSpec: "True"
+  fullName: TreeImplementation.Tree<TContext>.Tree
+  fullName.vb: TreeImplementation.Tree(Of TContext).Tree
+  nameWithType: Tree<TContext>.Tree
+  nameWithType.vb: Tree(Of TContext).Tree
+- uid: TreeImplementation.Tree`1.Run(`0)
+  name: Run(TContext)
+  href: api/TreeImplementation.Tree-1.html#TreeImplementation_Tree_1_Run__0_
+  commentId: M:TreeImplementation.Tree`1.Run(`0)
+  fullName: TreeImplementation.Tree<TContext>.Run(TContext)
+  fullName.vb: TreeImplementation.Tree(Of TContext).Run(TContext)
+  nameWithType: Tree<TContext>.Run(TContext)
+  nameWithType.vb: Tree(Of TContext).Run(TContext)
+- uid: TreeImplementation.Tree`1.Run*
+  name: Run
+  href: api/TreeImplementation.Tree-1.html#TreeImplementation_Tree_1_Run_
+  commentId: Overload:TreeImplementation.Tree`1.Run
+  isSpec: "True"
+  fullName: TreeImplementation.Tree<TContext>.Run
+  fullName.vb: TreeImplementation.Tree(Of TContext).Run
+  nameWithType: Tree<TContext>.Run
+  nameWithType.vb: Tree(Of TContext).Run
+- uid: TreeImplementation.Trunk
+  name: Trunk
+  href: api/TreeImplementation.Trunk.html
+  commentId: T:TreeImplementation.Trunk
+  fullName: TreeImplementation.Trunk
+  nameWithType: Trunk
+- uid: TreeImplementation.Trunk.#ctor(Script)
+  name: Trunk(Script)
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk__ctor_Script_
+  commentId: M:TreeImplementation.Trunk.#ctor(Script)
+  fullName: TreeImplementation.Trunk.Trunk(Script)
+  nameWithType: Trunk.Trunk(Script)
+- uid: TreeImplementation.Trunk.#ctor*
+  name: Trunk
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk__ctor_
+  commentId: Overload:TreeImplementation.Trunk.#ctor
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.Trunk
+  nameWithType: Trunk.Trunk
+- uid: TreeImplementation.Trunk.AddBranch(Script{System.Boolean},TreeContract.ITrunk,TreeContract.ITrunk)
+  name: AddBranch(Script<Boolean>, ITrunk, ITrunk)
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_AddBranch_Script_System_Boolean__TreeContract_ITrunk_TreeContract_ITrunk_
+  commentId: M:TreeImplementation.Trunk.AddBranch(Script{System.Boolean},TreeContract.ITrunk,TreeContract.ITrunk)
+  name.vb: AddBranch(Script(Of Boolean), ITrunk, ITrunk)
+  fullName: TreeImplementation.Trunk.AddBranch(Script<System.Boolean>, TreeContract.ITrunk, TreeContract.ITrunk)
+  fullName.vb: TreeImplementation.Trunk.AddBranch(Script(Of System.Boolean), TreeContract.ITrunk, TreeContract.ITrunk)
+  nameWithType: Trunk.AddBranch(Script<Boolean>, ITrunk, ITrunk)
+  nameWithType.vb: Trunk.AddBranch(Script(Of Boolean), ITrunk, ITrunk)
+- uid: TreeImplementation.Trunk.AddBranch(Script{System.Boolean},TreeImplementation.Trunk,TreeImplementation.Trunk)
+  name: AddBranch(Script<Boolean>, Trunk, Trunk)
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_AddBranch_Script_System_Boolean__TreeImplementation_Trunk_TreeImplementation_Trunk_
+  commentId: M:TreeImplementation.Trunk.AddBranch(Script{System.Boolean},TreeImplementation.Trunk,TreeImplementation.Trunk)
+  name.vb: AddBranch(Script(Of Boolean), Trunk, Trunk)
+  fullName: TreeImplementation.Trunk.AddBranch(Script<System.Boolean>, TreeImplementation.Trunk, TreeImplementation.Trunk)
+  fullName.vb: TreeImplementation.Trunk.AddBranch(Script(Of System.Boolean), TreeImplementation.Trunk, TreeImplementation.Trunk)
+  nameWithType: Trunk.AddBranch(Script<Boolean>, Trunk, Trunk)
+  nameWithType.vb: Trunk.AddBranch(Script(Of Boolean), Trunk, Trunk)
+- uid: TreeImplementation.Trunk.AddBranch*
+  name: AddBranch
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_AddBranch_
+  commentId: Overload:TreeImplementation.Trunk.AddBranch
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.AddBranch
+  nameWithType: Trunk.AddBranch
+- uid: TreeImplementation.Trunk.AddSection(Script)
+  name: AddSection(Script)
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_AddSection_Script_
+  commentId: M:TreeImplementation.Trunk.AddSection(Script)
+  fullName: TreeImplementation.Trunk.AddSection(Script)
+  nameWithType: Trunk.AddSection(Script)
+- uid: TreeImplementation.Trunk.AddSection*
+  name: AddSection
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_AddSection_
+  commentId: Overload:TreeImplementation.Trunk.AddSection
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.AddSection
+  nameWithType: Trunk.AddSection
+- uid: TreeImplementation.Trunk.GetDecisionScript
+  name: GetDecisionScript()
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_GetDecisionScript
+  commentId: M:TreeImplementation.Trunk.GetDecisionScript
+  fullName: TreeImplementation.Trunk.GetDecisionScript()
+  nameWithType: Trunk.GetDecisionScript()
+- uid: TreeImplementation.Trunk.GetDecisionScript*
+  name: GetDecisionScript
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_GetDecisionScript_
+  commentId: Overload:TreeImplementation.Trunk.GetDecisionScript
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.GetDecisionScript
+  nameWithType: Trunk.GetDecisionScript
+- uid: TreeImplementation.Trunk.GetNextSection(System.Boolean)
+  name: GetNextSection(Boolean)
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_GetNextSection_System_Boolean_
+  commentId: M:TreeImplementation.Trunk.GetNextSection(System.Boolean)
+  fullName: TreeImplementation.Trunk.GetNextSection(System.Boolean)
+  nameWithType: Trunk.GetNextSection(Boolean)
+- uid: TreeImplementation.Trunk.GetNextSection*
+  name: GetNextSection
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_GetNextSection_
+  commentId: Overload:TreeImplementation.Trunk.GetNextSection
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.GetNextSection
+  nameWithType: Trunk.GetNextSection
+- uid: TreeImplementation.Trunk.GetScript
+  name: GetScript()
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_GetScript
+  commentId: M:TreeImplementation.Trunk.GetScript
+  fullName: TreeImplementation.Trunk.GetScript()
+  nameWithType: Trunk.GetScript()
+- uid: TreeImplementation.Trunk.GetScript*
+  name: GetScript
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_GetScript_
+  commentId: Overload:TreeImplementation.Trunk.GetScript
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.GetScript
+  nameWithType: Trunk.GetScript
+- uid: TreeImplementation.Trunk.IsBranch
+  name: IsBranch()
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_IsBranch
+  commentId: M:TreeImplementation.Trunk.IsBranch
+  fullName: TreeImplementation.Trunk.IsBranch()
+  nameWithType: Trunk.IsBranch()
+- uid: TreeImplementation.Trunk.IsBranch*
+  name: IsBranch
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_IsBranch_
+  commentId: Overload:TreeImplementation.Trunk.IsBranch
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.IsBranch
+  nameWithType: Trunk.IsBranch
+- uid: TreeImplementation.Trunk.IsLeaf
+  name: IsLeaf()
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_IsLeaf
+  commentId: M:TreeImplementation.Trunk.IsLeaf
+  fullName: TreeImplementation.Trunk.IsLeaf()
+  nameWithType: Trunk.IsLeaf()
+- uid: TreeImplementation.Trunk.IsLeaf*
+  name: IsLeaf
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_IsLeaf_
+  commentId: Overload:TreeImplementation.Trunk.IsLeaf
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.IsLeaf
+  nameWithType: Trunk.IsLeaf
+- uid: TreeImplementation.Trunk.IsTrunk
+  name: IsTrunk()
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_IsTrunk
+  commentId: M:TreeImplementation.Trunk.IsTrunk
+  fullName: TreeImplementation.Trunk.IsTrunk()
+  nameWithType: Trunk.IsTrunk()
+- uid: TreeImplementation.Trunk.IsTrunk*
+  name: IsTrunk
+  href: api/TreeImplementation.Trunk.html#TreeImplementation_Trunk_IsTrunk_
+  commentId: Overload:TreeImplementation.Trunk.IsTrunk
+  isSpec: "True"
+  fullName: TreeImplementation.Trunk.IsTrunk
+  nameWithType: Trunk.IsTrunk

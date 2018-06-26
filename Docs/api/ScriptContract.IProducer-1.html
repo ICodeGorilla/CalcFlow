@@ -1,0 +1,590 @@
+﻿<!DOCTYPE html>
+<!--[if IE]><![endif]-->
+<html>
+  
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Interface IProducer&lt;TContext&gt;
+   </title>
+    <meta name="viewport" content="width=device-width">
+    <meta name="title" content="Interface IProducer&lt;TContext&gt;
+   ">
+    <meta name="generator" content="docfx 2.35.4.0">
+    
+    <link rel="shortcut icon" href="../favicon.ico">
+    <link rel="stylesheet" href="../styles/docfx.vendor.css">
+    <link rel="stylesheet" href="../styles/docfx.css">
+    <link rel="stylesheet" href="../styles/main.css">
+    <meta property="docfx:navrel" content="../toc.html">
+    <meta property="docfx:tocrel" content="toc.html">
+    
+    
+    
+  </head>
+  <body data-spy="scroll" data-target="#affix" data-offset="120">
+    <div id="wrapper">
+      <header>
+        
+        <nav id="autocollapse" class="navbar navbar-inverse ng-scope" role="navigation">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              
+              <a class="navbar-brand" href="../index.html">
+                <img id="logo" class="svg" src="../logo.svg" alt="">
+              </a>
+            </div>
+            <div class="collapse navbar-collapse" id="navbar">
+              <form class="navbar-form navbar-right" role="search" id="search">
+                <div class="form-group">
+                  <input type="text" class="form-control" id="search-query" placeholder="Search" autocomplete="off">
+                </div>
+              </form>
+            </div>
+          </div>
+        </nav>
+        
+        <div class="subnav navbar navbar-default">
+          <div class="container hide-when-search" id="breadcrumb">
+            <ul class="breadcrumb">
+              <li></li>
+            </ul>
+          </div>
+        </div>
+      </header>
+      <div role="main" class="container body-content hide-when-search">
+        
+        <div class="sidenav hide-when-search">
+          <a class="btn toc-toggle collapse" data-toggle="collapse" href="#sidetoggle" aria-expanded="false" aria-controls="sidetoggle">Show / Hide Table of Contents</a>
+          <div class="sidetoggle collapse" id="sidetoggle">
+            <div id="sidetoc"></div>
+          </div>
+        </div>
+        <div class="article row grid-right">
+          <div class="col-md-10">
+            <article class="content wrap" id="_content" data-uid="ScriptContract.IProducer`1">
+  
+  
+  <h1 id="ScriptContract_IProducer_1" data-uid="ScriptContract.IProducer`1" class="text-break">Interface IProducer&lt;TContext&gt;
+  </h1>
+  <div class="markdown level0 summary"><p>The Producer interface, receives instructions produces results</p>
+</div>
+  <div class="markdown level0 conceptual"></div>
+  <h6><strong>Namespace</strong>: <a class="xref" href="ScriptContract.html">ScriptContract</a></h6>
+  <h6><strong>Assembly</strong>: ScriptContract.dll</h6>
+  <h5 id="ScriptContract_IProducer_1_syntax">Syntax</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public interface IProducer&lt;TContext&gt;</code></pre>
+  </div>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TContext</span></td>
+        <td><p>The type of context in which the code will be executed</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+  </h3>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=53">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceAsync_" data-uid="ScriptContract.IProducer`1.ProduceAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceAsync__1__0_System_String_" data-uid="ScriptContract.IProducer`1.ProduceAsync``1(`0,System.String)">ProduceAsync&lt;TResult&gt;(TContext, String)</h4>
+  <div class="markdown level1 summary"><p>Produces result from a string commands async within a context.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;TResult&gt; ProduceAsync&lt;TResult&gt;(TContext context, string command)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td><p>The context as type of TContext.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">command</span></td>
+        <td><p>The command as string.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;TResult&gt;</td>
+        <td><p>The <see cref="!:Task"></see> with a result of TResult</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td><p>Type of the result that will be generated</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=36">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceAsync_" data-uid="ScriptContract.IProducer`1.ProduceAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceAsync__1_System_String_" data-uid="ScriptContract.IProducer`1.ProduceAsync``1(System.String)">ProduceAsync&lt;TResult&gt;(String)</h4>
+  <div class="markdown level1 summary"><p>Produces result from a string commands async.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;TResult&gt; ProduceAsync&lt;TResult&gt;(string command)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span></td>
+        <td><span class="parametername">command</span></td>
+        <td><p>The commands as a string</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;TResult&gt;</td>
+        <td><p>The <see cref="!:Task"></see> with a result of TResult</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td><p>Type of the result that will be generated</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=67">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceContextFromScriptAsync_" data-uid="ScriptContract.IProducer`1.ProduceContextFromScriptAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceContextFromScriptAsync__0_Script_" data-uid="ScriptContract.IProducer`1.ProduceContextFromScriptAsync(`0,Script)">ProduceContextFromScriptAsync(TContext, Script)</h4>
+  <div class="markdown level1 summary"><p>The produce context from script async.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;ScriptState&gt; ProduceContextFromScriptAsync(TContext context, Script script)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td><p>The context</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Script</span></td>
+        <td><span class="parametername">script</span></td>
+        <td><p>The script</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;<span class="xref">ScriptState</span>&gt;</td>
+        <td><p>The <see cref="!:Task"></see></p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=98">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceFromListAsync_" data-uid="ScriptContract.IProducer`1.ProduceFromListAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceFromListAsync__1__0_System_String___" data-uid="ScriptContract.IProducer`1.ProduceFromListAsync``1(`0,System.String[])">ProduceFromListAsync&lt;TResult&gt;(TContext, String[])</h4>
+  <div class="markdown level1 summary"><p>Produces result from a list of commands async with context.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;TResult&gt; ProduceFromListAsync&lt;TResult&gt;(TContext context, params string[] commands)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td><p>The context in which the commands will be executed.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">System.String</span>[]</td>
+        <td><span class="parametername">commands</span></td>
+        <td><p>The commands as an array of strings to be executed in order</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;TResult&gt;</td>
+        <td><p>The <see cref="!:Task"></see> with a result of TResult</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td><p>Type of the result that will be generated</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=81">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceFromListAsync_" data-uid="ScriptContract.IProducer`1.ProduceFromListAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceFromListAsync__1_System_String___" data-uid="ScriptContract.IProducer`1.ProduceFromListAsync``1(System.String[])">ProduceFromListAsync&lt;TResult&gt;(String[])</h4>
+  <div class="markdown level1 summary"><p>Produces result from a list of commands async.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;TResult&gt; ProduceFromListAsync&lt;TResult&gt;(params string[] commands)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">System.String</span>[]</td>
+        <td><span class="parametername">commands</span></td>
+        <td><p>The commands as an array of strings to be executed in order</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;TResult&gt;</td>
+        <td><p>The <see cref="!:Task"></see> with a result of TResult</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td><p>Type of the result that will be generated</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=115">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceFromScriptAsync_" data-uid="ScriptContract.IProducer`1.ProduceFromScriptAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceFromScriptAsync__1__0_Script___0__" data-uid="ScriptContract.IProducer`1.ProduceFromScriptAsync``1(`0,Script{``0})">ProduceFromScriptAsync&lt;TResult&gt;(TContext, Script&lt;TResult&gt;)</h4>
+  <div class="markdown level1 summary"><p>Produces result from a script commands async within a context.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;TResult&gt; ProduceFromScriptAsync&lt;TResult&gt;(TContext context, Script&lt;TResult&gt; script)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">TContext</span></td>
+        <td><span class="parametername">context</span></td>
+        <td><p>The context as type of TContext.</p>
+</td>
+      </tr>
+      <tr>
+        <td><span class="xref">Script</span>&lt;TResult&gt;</td>
+        <td><span class="parametername">script</span></td>
+        <td><p>The script as a compiled command.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;TResult&gt;</td>
+        <td><p>The <see cref="!:Task"></see> with a result of TResult when executed within TContext</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td><p>Type of the result that will be generated</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  
+  <span class="small pull-right mobile-hide">
+    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=129">View Source</a>
+  </span>
+  <a id="ScriptContract_IProducer_1_ProduceFromScriptAsync_" data-uid="ScriptContract.IProducer`1.ProduceFromScriptAsync*"></a>
+  <h4 id="ScriptContract_IProducer_1_ProduceFromScriptAsync__1_Script___0__" data-uid="ScriptContract.IProducer`1.ProduceFromScriptAsync``1(Script{``0})">ProduceFromScriptAsync&lt;TResult&gt;(Script&lt;TResult&gt;)</h4>
+  <div class="markdown level1 summary"><p>Produces result from a script commands async without a context.</p>
+</div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="decalaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">Task&lt;TResult&gt; ProduceFromScriptAsync&lt;TResult&gt;(Script&lt;TResult&gt; script)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Script</span>&lt;TResult&gt;</td>
+        <td><span class="parametername">script</span></td>
+        <td><p>The script as a compiled command.</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="returns">Returns</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">Task</span>&lt;TResult&gt;</td>
+        <td><p>The <see cref="!:Task"></see> with a result of TResult</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+  <h5 class="typeParameters">Type Parameters</h5>
+  <table class="table table-bordered table-striped table-condensed">
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="parametername">TResult</span></td>
+        <td><p>Type of the result that will be generated</p>
+</td>
+      </tr>
+    </tbody>
+  </table>
+</article>
+          </div>
+          
+          <div class="hidden-sm col-md-2" role="complementary">
+            <div class="sideaffix">
+              <div class="contribution">
+                <ul class="nav">
+                  <li>
+                    <a href="https://payspace.visualstudio.com/Insight%20IT%20All%20Projects/_git/TaxCalcPOC?path=TaxCalc/ScriptContract/IProducer.cs&amp;version=GBdevelop&amp;line=22" class="contribution-link">View Source</a>
+                  </li>
+                </ul>
+              </div>
+              <nav class="bs-docs-sidebar hidden-print hidden-xs hidden-sm affix" id="affix">
+              <!-- <p><a class="back-to-top" href="#top">Back to top</a><p> -->
+              </nav>
+            </div>
+          </div>
+        </div>
+      </div>
+      
+      <footer>
+        <div class="grad-bottom"></div>
+        <div class="footer">
+          <div class="container">
+            <span class="pull-right">
+              <a href="#top">Back to top</a>
+            </span>
+            
+            <span>Generated by <strong>DocFX</strong></span>
+          </div>
+        </div>
+      </footer>
+    </div>
+    
+    <script type="text/javascript" src="../styles/docfx.vendor.js"></script>
+    <script type="text/javascript" src="../styles/docfx.js"></script>
+    <script type="text/javascript" src="../styles/main.js"></script>
+  </body>
+</html>
