@@ -18,8 +18,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Contract\TreeContract.csproj" />
     <ProjectReference Include="..\GoalSeek\GoalSeekContract.csproj" />
+    <ProjectReference Include="..\TreeContract\TreeContract.csproj" />
   </ItemGroup>
 
 </Project>

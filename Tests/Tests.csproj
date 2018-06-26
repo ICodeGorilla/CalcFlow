@@ -1,11 +1,11 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.0</TargetFramework>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
-    <DocumentationFile>bin\Debug\netcoreapp2.0\TaxCalc.xml</DocumentationFile>
+    <DocumentationFile>bin\Debug\netcoreapp2.0\Tests.xml</DocumentationFile>
   </PropertyGroup>
 
   <ItemGroup>
@@ -21,7 +21,10 @@
   <ItemGroup>
     <ProjectReference Include="..\CSharpScript\CSharpScript.csproj" />
     <ProjectReference Include="..\GoalSeekContract\GoalSeekImplementation.csproj" />
-    <ProjectReference Include="..\TaxCalulation\TreeImplementation.csproj" />
+    <ProjectReference Include="..\GoalSeek\GoalSeekContract.csproj" />
+    <ProjectReference Include="..\ScriptContract\ScriptContract.csproj" />
+    <ProjectReference Include="..\TreeContract\TreeContract.csproj" />
+    <ProjectReference Include="..\TreeImplementation\TreeImplementation.csproj" />
   </ItemGroup>
 
   <ItemGroup>

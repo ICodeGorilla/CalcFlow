@@ -13,8 +13,4 @@
     <CodeAnalysisRuleSet>GoalSeekImplementation.ruleset</CodeAnalysisRuleSet>
   </PropertyGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\Contract\TreeContract.csproj" />
-  </ItemGroup>
-
 </Project>
