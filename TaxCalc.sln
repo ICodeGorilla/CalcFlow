@@ -1,0 +1,84 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tests", "TaxCalc\Tests.csproj", "{EACEB692-DF31-47D2-AF21-D7C7D56DE93D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{DF009740-7323-46F9-AC0F-80862B0C2948}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.  Tree", "2.  Tree", "{7A37574E-7695-4AB4-B0FB-8029E101344D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeImplementation", "TaxCalulation\TreeImplementation.csproj", "{F004DC1C-5522-43E5-B61C-024A670AA2BA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TreeContract", "Contract\TreeContract.csproj", "{DD6634BC-898A-42F2-BA5E-6F5AA04F4A1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.  CustomScript", "1.  CustomScript", "{734A2D6E-D05C-43A8-B71C-316C177C2E7D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ScriptContract", "ScriptContract\ScriptContract.csproj", "{7E23A9EF-6873-4AEF-9D21-5CF055762A95}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpScript", "CSharpScript\CSharpScript.csproj", "{E519B78F-06A4-4F24-8E9A-4795F7F16688}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.  Gross Up", "3.  Gross Up", "{2CA0E9A3-051F-4931-BF89-DF42C2D43D1C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoalSeekContract", "GrossUpContract\GoalSeekContract.csproj", "{A382919B-2E54-4DC4-AA1B-CF4A79BA7D49}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GoalSeekImplementation", "GrossUp\GoalSeekImplementation.csproj", "{276D88D8-EFF7-46A7-B733-0BEAB0F107A4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SonarQube", "SonarQube", "{457532D5-1315-46F2-AB2B-169CF9700D14}"
+	ProjectSection(SolutionItems) = preProject
+		SonarQube\SolutionBinding.sqconfig = SonarQube\SolutionBinding.sqconfig
+		SonarQube\TaxCalcCSharp.ruleset = SonarQube\TaxCalcCSharp.ruleset
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EACEB692-DF31-47D2-AF21-D7C7D56DE93D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EACEB692-DF31-47D2-AF21-D7C7D56DE93D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EACEB692-DF31-47D2-AF21-D7C7D56DE93D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EACEB692-DF31-47D2-AF21-D7C7D56DE93D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F004DC1C-5522-43E5-B61C-024A670AA2BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F004DC1C-5522-43E5-B61C-024A670AA2BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F004DC1C-5522-43E5-B61C-024A670AA2BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F004DC1C-5522-43E5-B61C-024A670AA2BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6634BC-898A-42F2-BA5E-6F5AA04F4A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6634BC-898A-42F2-BA5E-6F5AA04F4A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6634BC-898A-42F2-BA5E-6F5AA04F4A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6634BC-898A-42F2-BA5E-6F5AA04F4A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E23A9EF-6873-4AEF-9D21-5CF055762A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E23A9EF-6873-4AEF-9D21-5CF055762A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E23A9EF-6873-4AEF-9D21-5CF055762A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E23A9EF-6873-4AEF-9D21-5CF055762A95}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E519B78F-06A4-4F24-8E9A-4795F7F16688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E519B78F-06A4-4F24-8E9A-4795F7F16688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E519B78F-06A4-4F24-8E9A-4795F7F16688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E519B78F-06A4-4F24-8E9A-4795F7F16688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A382919B-2E54-4DC4-AA1B-CF4A79BA7D49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A382919B-2E54-4DC4-AA1B-CF4A79BA7D49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A382919B-2E54-4DC4-AA1B-CF4A79BA7D49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A382919B-2E54-4DC4-AA1B-CF4A79BA7D49}.Release|Any CPU.Build.0 = Release|Any CPU
+		{276D88D8-EFF7-46A7-B733-0BEAB0F107A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{276D88D8-EFF7-46A7-B733-0BEAB0F107A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{276D88D8-EFF7-46A7-B733-0BEAB0F107A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{276D88D8-EFF7-46A7-B733-0BEAB0F107A4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EACEB692-DF31-47D2-AF21-D7C7D56DE93D} = {DF009740-7323-46F9-AC0F-80862B0C2948}
+		{F004DC1C-5522-43E5-B61C-024A670AA2BA} = {7A37574E-7695-4AB4-B0FB-8029E101344D}
+		{DD6634BC-898A-42F2-BA5E-6F5AA04F4A1C} = {7A37574E-7695-4AB4-B0FB-8029E101344D}
+		{7E23A9EF-6873-4AEF-9D21-5CF055762A95} = {734A2D6E-D05C-43A8-B71C-316C177C2E7D}
+		{E519B78F-06A4-4F24-8E9A-4795F7F16688} = {734A2D6E-D05C-43A8-B71C-316C177C2E7D}
+		{A382919B-2E54-4DC4-AA1B-CF4A79BA7D49} = {2CA0E9A3-051F-4931-BF89-DF42C2D43D1C}
+		{276D88D8-EFF7-46A7-B733-0BEAB0F107A4} = {2CA0E9A3-051F-4931-BF89-DF42C2D43D1C}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8057907-FE9A-4D2C-99C6-D399BCD220E1}
+	EndGlobalSection
+EndGlobal
